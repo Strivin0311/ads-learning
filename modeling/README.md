@@ -6,13 +6,25 @@ This directory comprises literature on the ADS modeling in both the end-to-end s
 
 ## Table of Contents
 * [Localization & Mapping](localization_and_mapping/README.md)
-  * 
+  * [Localization](localization_and_mapping/localization/README.md)
+  * [HD Map](localization_and_mapping/HD_map/README.md)
+  * [SLAM](localization_and_mapping/SLAM/README.md)
 * [Perception & Prediction](perception_and_prediction/README.md)
-  * 
+  * [3D Objection Detection](perception_and_prediction/object_detection_3d/README.md)
+  * [Multi-Object Tracking](perception_and_prediction/MOT/README.md)
+  * [Panoptic Segmentation](perception_and_prediction/panoptic_segmentation/README.md)
+  * [BEV Representation](perception_and_prediction/BEV/README.md)
 * [Planning & Control](planning_and_control/README.md)
-  * 
+  * [Classic Planning](planning_and_control/classic_planning/README.md)
+  * [End-to-End Planning](planning_and_control/end2end_planning/README.md)
+  * [Optimal Control](planning_and_control/optimal_control/README.md)
+  * [Vehicle Dynamics](planning_and_control/vehicle_dynamics/README.md)
 * [End-to-End](end2end/README.md)
-  * 
+  * [Vanilla Design](end2end/vanilla/README.md)
+  * [Explicit Design](end2end/explicit/README.md)
+  * [Joint Design](end2end/joint/README.md)
 * [Miscellaneous](miscellaneous/README.md)
+  * [Survey](miscellaneous/survey/README.md)
+  * [Course](miscellaneous/course/README.md)
 
 ---
