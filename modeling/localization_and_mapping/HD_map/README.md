@@ -8,9 +8,10 @@ As a result, A variety of methods are currently being explored to automate and e
 
 Nevertheless, here is another popular direction in the field seeking lightweight and flexible alternatives to HD map, like using [panoptic segmentation](../../perception_and_prediction/panoptic_segmentation/README.md) or [BEV representation](../../perception_and_prediction/BEV/README.md) to understand the environment globally. But we do not concern about it right here, leaving it to the [perception module](../../perception_and_prediction/README.md).
 
----
 
 ## Table of Contents
 * [HD Map Generation](generation.md)
 * [HD Map Format](format.md)
   * [Open-Drive Format](format.md#opendrive-format)
+
+---

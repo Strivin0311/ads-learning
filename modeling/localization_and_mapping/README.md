@@ -9,6 +9,7 @@ However, in the realm of robotics, Simultaneous Localization and Mapping (SLAM) 
 
 Therefore, this directory encompasses both strategies: standalone localization and HD mapping technologies, as well as some (visual) SLAM methods specifically designed for autonomous driving.
 
+
 ## Table of Contents
 * [Localization](localization/README.md)
   * [Coordinate System](localization/preliminaries/coordination_system.md)

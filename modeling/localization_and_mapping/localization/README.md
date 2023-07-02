@@ -7,8 +7,6 @@ However, due to the high demand for precision and the complexity of open environ
 As a result, a variety of novel methodologies have emerged, such as GPS/IMU Navigation, Visual Navigation (utilizing LiDAR and Camera), Wireless Communication Assisted Navigation, and Multi-Sensor Fusion Navigation.
 
 
----
-
 ## Table of Contents
 * [Coordinate System](preliminaries/coordination_system.md)
   * [ECEF e-System](preliminaries/coordination_system.md#ecef-e-system)

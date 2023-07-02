@@ -2,12 +2,10 @@
 
 This a part of preliminary knowledge for localization technology, about the commonly-used state estimation method, Kalman Filter.
 
----
 
 ## Vanilla KF
 
 
----
 
 ## Extended KF
 

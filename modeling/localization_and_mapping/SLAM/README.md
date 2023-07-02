@@ -7,8 +7,6 @@ The basic problem in SLAM is the chicken-and-egg: A map is needed to localize th
 SLAM techniques combine data from various sensors (like lidar, radar, or cameras) to both identify features in the environment and track movement. This can be a computationally challenging task, especially when the maps are large or the environments are changing rapidly, but successful SLAM is a crucial part of enabling autonomous robots and vehicles to move around in the world.
 
 
----
-
 ## Table of Contents
 * [General SLAM](general.md)
 * [Visual SLAM](visual.md)

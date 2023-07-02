@@ -1,13 +1,11 @@
 # Satellite-based Navigation
 This is an introduction about the classic satellite-based navigation technology.
 
----
 
 ## GNSS
 
 For more information, you can refer to [Satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation) by Wikipedia.
 
----
 
 ## RTK
 

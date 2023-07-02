@@ -1,11 +1,9 @@
 # IMU-based Navigation
 This is an introduction about the widely-used IMU(Inertial Measurement Unit)-based navigation technology.
 
----
 
 ## GINS
 
----
 
 ## SINS
 
