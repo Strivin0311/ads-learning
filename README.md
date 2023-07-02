@@ -1,5 +1,6 @@
-# ADS-Learning
-A repository sharing the literatures about the full-stack SOTA techniques of the autonomous driving system
+# 🚦🚗 ADS-Learning 📑📚
+
+This repository is dedicated to sharing comprehensive literature on the full-stack techniques for autonomous driving systems(ADS), including modeling, testing and some awesome (open-source) utilities.
 
 ---
 
