@@ -16,6 +16,7 @@ Control, on the other hand, is the process of implementing the planned path by s
   * [PID Control](control/PID.md)
   * [LQR Control](control/LQR.md)
   * [Model Predictive Control](control/MPC.md)
+  * [NN-based Control](NN_based.md)
 * [Vehicle Dynamics](vehicle_dynamics/README.md)
 
 ---

@@ -8,7 +8,8 @@ There are two primary forms of control in this context: longitudinal and lateral
 
 * [PID Control](PID.md)
 * [LQR Control](LQR.md)
-* [MPC Control](MPC.md)
+* [Model Predictive Control](MPC.md)
+* [NN-based Control](NN_based.md)
 
 ---
 

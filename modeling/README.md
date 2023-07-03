@@ -20,11 +20,7 @@ This directory comprises literature on the ADS modeling in both the end-to-end s
   * [Control](planning_and_control/control/README.md)
   * [Vehicle Dynamics](planning_and_control/vehicle_dynamics/README.md)
 * [End-to-End](end2end/README.md)
-  * [Vanilla Design](end2end/vanilla/README.md)
-  * [Explicit Design](end2end/explicit/README.md)
-  * [Joint Design](end2end/joint/README.md)
 * [Miscellaneous](miscellaneous/README.md)
-  * [Survey](miscellaneous/survey.md)
-  * [Course](miscellaneous/course.md)
+  * [Survey](miscellaneous/README.md#survey)
 
 ---
