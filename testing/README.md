@@ -9,6 +9,8 @@ This directory comprises literature on ADS testing, primarily emphasizing advers
   * [Sensor Spoofing](adversarial_attacks/sensor_spoofing.md)
   * [Physical-World Attacks](adversarial_attacks/phys_attacks.md)
 * [Scenario Generation](scenario_generation/README.md)
+  * [Natural Traffic Flow Generation](scenario_generation/traffic_flow/README.md)
+  * [Safety-Critical Scenario Generation](scenario_generation/SCSG/README.md)
 * [Oracle](oracle/README.md)
 * [Miscellaneous](miscellaneous/README.md)
 
