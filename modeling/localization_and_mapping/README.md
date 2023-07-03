@@ -1,7 +1,7 @@
 # Localization & Mapping
 
 
-This directory contains literature concerning localization and mapping methodologies for ADS, which are crucial for maintaining a global awareness of vehicle positions. 
+This directory contains a collection of literature concerning localization and mapping methodologies for ADS, which are crucial for maintaining a global awareness of vehicle positions. 
 
 More specifically, it is common practice among many ADS manufacturers to independently consider localization and mapping. This is due, in part, to the availability of mature, ready-made solutions such as Global Navigation Satellite Systems (GNSS) and High-Definition (HD) mapping.
 
@@ -27,3 +27,5 @@ Therefore, this directory encompasses both strategies: standalone localization a
   * [Visual SLAM](SLAM/visual.md)
 
 ---
+
+For more detailed knowledge, you can refer to [自动驾驶汽车定位](https://pan.baidu.com/s/18IkAdgETNXBxwvcAe29-VQ) written by Baidu Apollo team, with the extraction code hqz2.
