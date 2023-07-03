@@ -26,6 +26,11 @@ the paper link is [here](https://openaccess.thecvf.com/content/CVPR2021/papers/S
 #### Shared cross-modal trajectory prediction for autonomous driving
 the paper link is [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf).
 
+
+#### Safe Local Motion Planning with Self-Supervised Freespace Forecasting
+the paper link is [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Safe_Local_Motion_Planning_With_Self-Supervised_Freespace_Forecasting_CVPR_2021_paper.pdf).
+
+
 #### Lookout: Diverse multi-future prediction and planning for self-driving
 the paper link is [here](http://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf).
 
