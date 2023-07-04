@@ -17,10 +17,10 @@ This repository is dedicated to sharing comprehensive literature on the full-sta
   * [Oracle](testing/oracle/README.md)
   * [Miscellaneous](testing/miscellaneous/README.md)
 * [ADS Utilities](utils/README.md)
-  * [Model](utils/model/README.md)
-  * [Dataset](utils/dataset/README.md)
-  * [Domain Specific Language](utils/DSL/README.md)
-  * [Platform](utils/platform/README.md)
+  * [Model](utils/model.md)
+  * [Dataset](utils/dataset.md)
+  * [Domain Specific Language](utils/DSL.md)
+  * [Platform](utils/platform.md)
   * [Miscellaneous](modeling/miscellaneous/README.md)
 
 ---

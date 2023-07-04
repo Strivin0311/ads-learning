@@ -5,14 +5,10 @@ This directory comprises some awesome utilities built for ADS, mainly including 
 ---
 
 ## Table of Contents
-* [Model](model/README.md)
-  * 
-* [Dataset](dataset/README.md)
-  * 
-* [Domain Specific Language](DSL/README.md)
-  * 
-* [Platform](platform/README.md)
-  * 
-* [Miscellaneous](miscellaneous/README.md)
+* [Model](model.md)
+* [Dataset](dataset.md)
+* [Domain Specific Language](DSL.md)
+* [Platform](platform.md)
+* [Miscellaneous](miscellaneous.md)
 
 ---
