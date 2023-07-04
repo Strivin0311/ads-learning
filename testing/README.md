@@ -12,6 +12,9 @@ This directory comprises literature on ADS testing, primarily emphasizing advers
   * [Natural Traffic Flow Generation](scenario_generation/traffic_flow/README.md)
   * [Safety-Critical Scenario Generation](scenario_generation/SCSG/README.md)
 * [Oracle](oracle/README.md)
+  * [Safety Standard](oracle/README.md#safety-standard)
+  * [Safety Metrics](oracle/README.md#safety-metrics)
+  * [Modular Metrics](oracle/README.md#modular-metrics)
 * [Miscellaneous](miscellaneous/README.md)
 
 ---

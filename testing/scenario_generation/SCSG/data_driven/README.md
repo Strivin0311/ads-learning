@@ -8,8 +8,9 @@ It's worth noting that while data-driven methods can generate a wealth of divers
 ## Table of Contents
 * [Direct Sampling](direct_sampling.md)
   * [Replay](direct_sampling.md#replay)
-  * [Perturbation](direct_sampling.md#perturbation)
+  * [Random Perturbation](direct_sampling.md#random-perturbation)
   * [Clustering](direct_sampling.md#clustering)
+  * [Evolutionary](direct_sampling.md#evolutionary)
 * [Density Estimation](density_estimate.md)
   * [Bayesian Networks](density_estimate.md#bayesian-networks)
   * [DGMs](density_estimate.md#deep-generative-models)

@@ -10,7 +10,6 @@ The generated scenarios not only cover simple ones like driving on a straight ro
 * [Natural Traffic Flow Generation](traffic_flow/README.md)
 * [Safety-Critical Scenario Generation](SCSG/README.md)
   * [Data-driven Methods](SCSG/data_driven/README.md)
-  * [Knowledge-based Methods](SCSG/knowledge_based/README.md)
   * [Miscellaneous Methods](SCSG/miscellaneous/README.md)
 
 ---

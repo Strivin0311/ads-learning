@@ -18,10 +18,12 @@ Safety-critical scenario generation can be seen as an essential part of the over
   * [Direct Sampling](data_driven/direct_sampling.md)
   * [Density Estimation](data_driven/density_estimate.md)
   * [RL-based](data_driven/rl_based.md)
-* [Knowledge-based Methods](knowledge_based/README.md)
 * [Miscellaneous Methods](miscellaneous/README.md)
+  * [Collision-Avoidance](miscellaneous/README.md#collision-avoidance)
+  * [Adversarial Generation](miscellaneous/README.md#adversarial-generation)
+  * [Knowledge-based Methods](miscellaneous/README.md#knowledge-based-methods)
 
 
 ---
 
-For more literatures, you can refer to [A survey on safety-critical driving scenario generation—A methodological perspective](https://arxiv.org/pdf/2202.02215).
+For more literatures, you can refer to [A survey on safety-critical driving scenario generation—A methodological perspective](https://arxiv.org/pdf/2202.02215), or [Finding Critical Scenarios for Automated Driving Systems: A Systematic Literature Review](https://arxiv.org/pdf/2110.08664).
