@@ -5,9 +5,9 @@ This directory comprises some awesome utilities built for ADS, mainly including 
 ---
 
 ## Table of Contents
-* [Model & System](model_and_system.md)
+* [Model](model.md)
 * [Dataset](dataset.md)
-* [Domain Specific Language](DSL.md)
+* [DSL](DSL.md)
 * [Platform](platform.md)
 * [Miscellaneous](miscellaneous.md)
 
