@@ -1,10 +1,12 @@
 # 3D Objection Detection
+*Here's some resources about 3D Objection Detection*
 
-This directory contains a bunch of methodologies on 3D Objection Detection, which is the primary task within the perception range.
+Intros:
+* This directory contains a bunch of methodologies on 3D Objection Detection, which is the primary task within the perception range.
 
-The main goal of 3D Object Detection is not only to classify the type of object (e.g., car, pedestrian, cyclist, etc.) but also to determine the object's position, orientation, and scale in the 3D world. These details are crucial for predicting the object's future movement and planning the vehicle's path accordingly.
+* The main goal of 3D Object Detection is not only to classify the type of object (e.g., car, pedestrian, cyclist, etc.) but also to determine the object's position, orientation, and scale in the 3D world. These details are crucial for predicting the object's future movement and planning the vehicle's path accordingly.
 
-Given the complexity of this task, despite the great help of deep learning methods, it still faces  several challenges, including handling occlusion, dealing with varying lighting and weather conditions, and maintaining high performance in real-time scenarios, especially encountering rare or tiny objects.
+* Given the complexity of this task, despite the great help of deep learning methods, it still faces  several challenges, including handling occlusion, dealing with varying lighting and weather conditions, and maintaining high performance in real-time scenarios, especially encountering rare or tiny objects.
 
 ## Table of Contents
 * [Camera-only Methods](camera_only.md)
@@ -14,5 +16,3 @@ Given the complexity of this task, despite the great help of deep learning metho
 * [Lidar-based Methods](lidar_based.md)
 
 ---
-
-

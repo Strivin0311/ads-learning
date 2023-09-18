@@ -1,8 +1,12 @@
 # PID Control 
+*Here's some resources about PID Control*
 
-PID(Proportional, Integral, Derivative) Control is one of the simplest and most widely-used control techniques, which uses a feedback mechanism to minimize the difference between the desired and actual state of the vehicle.
+Intros:
+* PID(Proportional, Integral, Derivative) Control is one of the simplest and most widely-used control techniques, which uses a feedback mechanism to minimize the difference between the desired and actual state of the vehicle.
 
 
 ---
 
-For more details, you can refer to [PID Control](https://perpus.univpancasila.ac.id/repository/EBFT180152.pdf).
+
+#### PID Control [`UNREAD`]
+book link: [here](https://pan.baidu.com/s/1nseKGYRHxlu2t78dj6wAKw), with extraction code: `3a5s`

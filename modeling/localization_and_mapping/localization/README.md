@@ -1,10 +1,12 @@
 # Localization
+*Here's some resources about Localization*
 
-This is an introduction about localization/navigation technology, which is highly advanced and mature, largely due to the widespread use of GPS in nearly all contemporary mobile devices.
+Intros:
+* This is an introduction about localization/navigation technology, which is highly advanced and mature, largely due to the widespread use of GPS in nearly all contemporary mobile devices.
 
-However, due to the high demand for precision and the complexity of open environments, satellite-based methods alone no longer suffice to ensure the necessary accuracy and safety.
+* However, due to the high demand for precision and the complexity of open environments, satellite-based methods alone no longer suffice to ensure the necessary accuracy and safety.
 
-As a result, a variety of novel methodologies have emerged, such as GPS/IMU Navigation, Visual Navigation (utilizing LiDAR and Camera), Wireless Communication Assisted Navigation, and Multi-Sensor Fusion Navigation.
+* As a result, a variety of novel methodologies have emerged, such as GPS/IMU Navigation, Visual Navigation (utilizing LiDAR and Camera), Wireless Communication Assisted Navigation, and Multi-Sensor Fusion Navigation.
 
 
 ## Table of Contents
@@ -33,4 +35,6 @@ As a result, a variety of novel methodologies have emerged, such as GPS/IMU Navi
 
 ---
 
-For more detailed knowledge, you can refer to [自动驾驶汽车定位](https://pan.baidu.com/s/18IkAdgETNXBxwvcAe29-VQ) written by Baidu Apollo team, with the extraction code hqz2.
+#### 自动驾驶汽车定位 [`READ`]
+book link: [here](https://pan.baidu.com/s/1J8qRBuRGOf-PCERzs1xuqw), with extraction code: `a693`
+

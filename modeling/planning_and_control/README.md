@@ -1,10 +1,12 @@
 # Planning & Control
+*Here's some resources about Planning & Control*
 
-Planning and Control are the final stages of the decision-making pipeline, directly affecting the vehicle's real-world movements. Once the environment is perceived and understood and the trajectories of other dynamic entities are predicted, the system can plan its actions and control the vehicle accordingly.
+Intros:
+* Planning and Control are the final stages of the decision-making pipeline, directly affecting the vehicle's real-world movements. Once the environment is perceived and understood and the trajectories of other dynamic entities are predicted, the system can plan its actions and control the vehicle accordingly.
 
-In more details, Planning is the process of determining what actions the vehicle should take in response to the current and predicted future states of the environment. This involves defining a safe, efficient, and comfortable path for the vehicle to follow from its current position to its intended destination, while obeying traffic rules and avoiding obstacles. The level of complexity can vary significantly, from high-level route planning (e.g., deciding which streets to take) to more granular behavior planning (e.g., deciding how to change lanes, turn at intersections, or overtake other vehicles), and the lowest-level trajectory planning(a set of consecutive waypoints with timestamps).
+* In more details, Planning is the process of determining what actions the vehicle should take in response to the current and predicted future states of the environment. This involves defining a safe, efficient, and comfortable path for the vehicle to follow from its current position to its intended destination, while obeying traffic rules and avoiding obstacles. The level of complexity can vary significantly, from high-level route planning (e.g., deciding which streets to take) to more granular behavior planning (e.g., deciding how to change lanes, turn at intersections, or overtake other vehicles), and the lowest-level trajectory planning(a set of consecutive waypoints with timestamps).
 
-Control, on the other hand, is the process of implementing the planned path by sending commands, including throttle, brake, and steering, to the vehicle's actuation systems. The control module aims to follow the path planned by the planning module as accurately as possible while maintaining a smooth and comfortable ride, compensating for real-world disturbances such as road conditions, wind, and vehicle dynamics.
+* Control, on the other hand, is the process of implementing the planned path by sending commands, including throttle, brake, and steering, to the vehicle's actuation systems. The control module aims to follow the path planned by the planning module as accurately as possible while maintaining a smooth and comfortable ride, compensating for real-world disturbances such as road conditions, wind, and vehicle dynamics.
 
 
 ## Table of Contents
@@ -21,5 +23,26 @@ Control, on the other hand, is the process of implementing the planned path by s
 
 ---
 
-For more detailed knowledge, you can refer to [自动驾驶汽车决策与控制](https://pan.baidu.com/s/1q89BaMhi4_mHQ7MLDkWLMw) written by Baidu Apollo team, with the extraction code 6h9o, or [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446).
+#### A survey of motion planning and control techniques for self-driving urban vehicles [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1604.07446)
+
+citation: 
+```bibtex
+@article{paden2016survey,
+  title={A survey of motion planning and control techniques for self-driving urban vehicles},
+  author={Paden, Brian and {\v{C}}{\'a}p, Michal and Yong, Sze Zheng and Yershov, Dmitry and Frazzoli, Emilio},
+  journal={IEEE Transactions on intelligent vehicles},
+  volume={1},
+  number={1},
+  pages={33--55},
+  year={2016},
+  publisher={IEEE}
+}
+```
+    
+
+#### 自动驾驶汽车决策与控制 [`READ`]
+book link: [here](https://pan.baidu.com/s/1NzGlsmQqV5hbloFI11QKDg), with extraction code: `rbp5`
+
 

@@ -1,12 +1,18 @@
 # IMU-based Navigation
-This is an introduction about the widely-used IMU(Inertial Measurement Unit)-based navigation technology.
+*Here's some resources about IMU-based Navigation*
 
-
-## GINS
-
-
-## SINS
+Intros:
+* This is an introduction about the widely-used IMU(Inertial Measurement Unit)-based navigation technology.
 
 ---
 
-For more information, you can refer to [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system) by Wikipedia.
+
+#### Inertial navigation system [`READ`]
+
+wiki link: [here](https://en.wikipedia.org/wiki/Inertial_navigation_system)
+
+
+### GINS
+
+
+### SINS

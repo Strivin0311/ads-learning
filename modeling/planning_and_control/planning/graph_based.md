@@ -1,13 +1,43 @@
 # Graph-based Planning
+*Here's some resources about Graph-based Planning*
 
-The graph-based planning algorithms often involve transforming the driving environment into a grid or graph and finding the optimal path using algorithms such as A* or Dijkstra's. Nodes in the graph represent possible vehicle states, and edges represent feasible transitions between states. This is one of the oldest and most widely used approaches in path planning.
+Intros:
+* The graph-based planning algorithms often involve transforming the driving environment into a grid or graph and finding the optimal path using algorithms such as A* or Dijkstra's. Nodes in the graph represent possible vehicle states, and edges represent feasible transitions between states. This is one of the oldest and most widely used approaches in path planning.
 
 ---
 
-#### Path planning with modified A star algorithm for a mobile robot 
-the paper link is [here](https://pdf.sciencedirectassets.com/278653/1-s2.0-S1877705814X00329/1-s2.0-S187770581403149X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDaerDrdPIrfnbQcTQ0DNOhbJBI22Q27vh5CQ3ydBiKxwIhAP86Iz8qRWGISsW29NU7yNgnwZrfia6GHvs3wERGn8n7KrwFCOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgyNCPoDmX7VLwFO728qkAVELM2GHbas%2BsRAmlQwFoEQj0PfKu%2FLzP%2BqAaHn9hkrOw4EbGoj%2BBWMe5xNs4AWRndaDcUeerL1S%2FtS4q5uFXdPcMmmtRpmxhdYAZEWNBjHalzoNMe9W3Z0o0ey8muaboEjf3QPnDwc6HuVD20A1tfu1in%2BxalPnlXvzZmWrM7JPrM1TPUNou5PGzYhXAZ2AfI5%2FccSmaI8%2BKOlnBkllg61FjV%2Bf02YfJccZhJiwL4GiC5aZ8XlqWZAyk8lIKhxFgu3xI0NOhSCmwld9OguHuYTTE79QOacY7Llnj0m4M%2FuqKxCAmmczzv003sV81QvQr9eX4sVZVe3KFd%2FB1SHa5ukQ1GcCV9A4ISd8dNjyzaKD6VYNTf5njm%2B5VUPWCpFhzvPv4cpS3OMR5zJRsYwbUNGOYQNLn5c%2F4qYXbFKdSDiF5fz1P%2B34Rz2pvWbz%2FXp%2B57x3FET063nc6w%2F6B4%2Flo7hhS9aA4Laacgo4eXgkzvfT%2FMAoXzX2b1ugDaGDkhlkm5ivFd3QwRYu52%2BQWq0EQNpCvpEOMX5ma8srW5cOhN4QvvkBmA%2BnCJv%2B3sJRk1Xw1j34HjiwKtplU67YdGpeh75tdJPEgPHhOv7T5GGNXm153KBuYWdXrsWBRwSFhTf73IcAIJK7kWh0e5YEFQR1aBgUerZMBgdbQSoZozTxJFj7kQBIROpwKHbj60hF45kRjyl7%2BAGlZshUD34d%2BCAmdh8fDSG8qC1uVsCLhGMjAtJUlMF%2BaV3jnYs6IY4R9wfgNjp0Utb6cL18xIOmJdCiL4dHqW151en3%2Bw%2F6LXTmjIdmfqwL%2FWC%2BCKdIXvpjCmd%2FEVEcHVNvXYb2yaPH1uUmIi8blwqEeXk1sgYWQr0wFYZmjDR9omlBjqwAU8kQNgheUqDMs5gPHdbScVORsNYKZPuUy5nuLM95DV4yoN7jizvCzMPrhvtXGGt%2FufH0lx1ZKeadzFsLdfr7mVfs%2BDsozf%2BxzjBIch1gUc%2BEbpe8UDevC6%2BGaYIttlPx4w1E3Q9FvGKCnmur77OmwDBpGha1PWz82nLnw%2F9r8kVeVRzD4ebP4Vul7CB0VVrl7T56uZprn2TOugHLCHWrw6zw8wfAegGoV3MlISqBJFl&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230703T075938Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3HMR4PC3%2F20230703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=43250630cd98b5e7952cecee917ebcd07702b952e00458d1e7585309b6f2faf8&hash=d78763ef729b86c527493607ae245aed0bc27987023f11eecf4e649b71fc6623&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S187770581403149X&tid=spdf-03d42fd9-5d13-41d0-a75e-c0f5b485ed69&sid=f555142d355c7841a438864088602d45b919gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f16520a540658525003&rr=7e0d971a2f9f2624&cc=jp).
 
-#### Path Planning Algorithm using D* Heuristic Method Based on PSO in Dynamic Environment
+#### Path planning algorithm using D* heuristic method based on PSO in dynamic environment [`UNREAD`]
 
-the paper link is [here](https://core.ac.uk/download/pdf/235050716.pdf).
+paper link: [here](https://core.ac.uk/download/pdf/235050716.pdf)
 
+citation: 
+```bibtex
+@article{raheem2018path,
+  title={Path planning algorithm using D* heuristic method based on PSO in dynamic environment},
+  author={Raheem, Firas A and Hameed, Umniah I and others},
+  journal={American Scientific Research Journal for Engineering, Technology, and Sciences},
+  volume={49},
+  number={1},
+  pages={257--271},
+  year={2018}
+}
+```
+
+
+#### Path planning with modified a star algorithm for a mobile robot [`UNREAD`]
+
+paper link: [here](https://www.sciencedirect.com/science/article/pii/S187770581403149X/pdf?md5=c268e599865d356b71de135a7d8caaa5&pid=1-s2.0-S187770581403149X-main.pdf&_valck=1)
+
+citation: 
+```bibtex
+@article{duchovn2014path,
+  title={Path planning with modified a star algorithm for a mobile robot},
+  author={Ducho{\v{n}}, Franti{\v{s}}ek and Babinec, Andrej and Kajan, Martin and Be{\v{n}}o, Peter and Florek, Martin and Fico, Tom{\'a}{\v{s}} and Juri{\v{s}}ica, Ladislav},
+  journal={Procedia engineering},
+  volume={96},
+  pages={59--69},
+  year={2014},
+  publisher={Elsevier}
+}
+```

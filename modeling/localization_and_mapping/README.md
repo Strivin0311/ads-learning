@@ -1,13 +1,14 @@
 # Localization & Mapping
+*Here's some resources about Localization & Mapping*
 
+Intros:
+* This directory contains a collection of literature concerning localization and mapping methodologies for ADS, which are crucial for maintaining a global awareness of vehicle positions. 
 
-This directory contains a collection of literature concerning localization and mapping methodologies for ADS, which are crucial for maintaining a global awareness of vehicle positions. 
+* More specifically, it is common practice among many ADS manufacturers to independently consider localization and mapping. This is due, in part, to the availability of mature, ready-made solutions such as Global Navigation Satellite Systems (GNSS) and High-Definition (HD) mapping.
 
-More specifically, it is common practice among many ADS manufacturers to independently consider localization and mapping. This is due, in part, to the availability of mature, ready-made solutions such as Global Navigation Satellite Systems (GNSS) and High-Definition (HD) mapping.
+* However, in the realm of robotics, Simultaneous Localization and Mapping (SLAM) offers an innovative approach by addressing both components concurrently. The prevalence of SLAM has grown recently, given the inherent uncertainty, variability, and complexity of open environments.
 
-However, in the realm of robotics, Simultaneous Localization and Mapping (SLAM) offers an innovative approach by addressing both components concurrently. The prevalence of SLAM has grown recently, given the inherent uncertainty, variability, and complexity of open environments.
-
-Therefore, this directory encompasses both strategies: standalone localization and HD mapping technologies, as well as some (visual) SLAM methods specifically designed for autonomous driving.
+* Therefore, this directory encompasses both strategies: standalone localization and HD mapping technologies, as well as some (visual) SLAM methods specifically designed for autonomous driving.
 
 
 ## Table of Contents
@@ -28,4 +29,6 @@ Therefore, this directory encompasses both strategies: standalone localization a
 
 ---
 
-For more detailed knowledge, you can refer to [自动驾驶汽车定位](https://pan.baidu.com/s/18IkAdgETNXBxwvcAe29-VQ) written by Baidu Apollo team, with the extraction code hqz2.
+
+#### 自动驾驶汽车定位 [`READ`]
+book link: [here](https://pan.baidu.com/s/1J8qRBuRGOf-PCERzs1xuqw), with extraction code: `a693`

@@ -1,10 +1,12 @@
 # Perception & Prediction
+*Here's some resources about Perception & Prediction*
 
-This directory comprises a collection of literature focused on the methodologies associated with perception and prediction in ADS. These modules, highly intertwined with AI, have witnessed considerable growth and innovation due to the rapid development of deep learning in the field of Computer Vision (CV).
+Intros:
+* This directory comprises a collection of literature focused on the methodologies associated with perception and prediction in ADS. These modules, highly intertwined with AI, have witnessed considerable growth and innovation due to the rapid development of deep learning in the field of Computer Vision (CV).
 
-Perception involves understanding the environment surrounding the vehicle. This is accomplished by using a variety of sensors, such as cameras, LiDAR, radar, ultrasonic sensors, and others. The data gathered by these sensors are processed and used to recognize and locate objects and features in the environment. More specifically, perception can be further broken down into several key subtasks, which include 3D Object Detection, Segmentation, and Multi-Object Tracking.
+* Perception involves understanding the environment surrounding the vehicle. This is accomplished by using a variety of sensors, such as cameras, LiDAR, radar, ultrasonic sensors, and others. The data gathered by these sensors are processed and used to recognize and locate objects and features in the environment. More specifically, perception can be further broken down into several key subtasks, which include 3D Object Detection, Segmentation, and Multi-Object Tracking.
 
-Once the environment has been perceived and understood, the system undertakes the task of predicting the future states of dynamic entities in the environment, such as other vehicles, pedestrians, cyclists, etc., based on their both current and historical states, thereby preparing for the subsequent stages of [Planning & Control](../planning_and_control/README.md).
+* Once the environment has been perceived and understood, the system undertakes the task of predicting the future states of dynamic entities in the environment, such as other vehicles, pedestrians, cyclists, etc., based on their both current and historical states, thereby preparing for the subsequent stages of [Planning & Control](../planning_and_control/README.md).
 
 ## Table of Contents
 * [3D Objection Detection](object_detection_3d/README.md)
@@ -19,4 +21,6 @@ Once the environment has been perceived and understood, the system undertakes th
 
 ---
 
-For more detailed knowledge, you can refer to [自动驾驶汽车环境感知](https://pan.baidu.com/s/1PVmKYIUllxt0rxTQiJGJJA ) written by Baidu Apollo team, with the extraction code cpy8.
+
+#### 自动驾驶汽车环境感知 [`READ`]
+book link: [here](https://pan.baidu.com/s/1Y9AmpSVVsNB6H5IKwfV9MQ), with extraction code: `6npj`
