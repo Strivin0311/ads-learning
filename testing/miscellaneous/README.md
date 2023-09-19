@@ -1,81 +1,249 @@
 # Miscellaneous Methodology for ADS Testing
+*Here's some resources about Miscellaneous Methodology for ADS Testing*
 
-
----
 
 ### Search-based Testing
 
-#### Targeting Patterns of Driving Characteristics in Testing Autonomous Driving Systems
-the paper link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9438591).
+#### Many-objective reinforcement learning for online testing of dnn-enabled systems [`READ`]
 
-#### Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems
-the paper link is [here](https://arxiv.org/pdf/2210.15432).
+paper link: [here](https://arxiv.org/pdf/2210.15432)
 
-#### Achieving Weight Coverage for an Autonomous Driving System with Search-based Test Generation
-the paper link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376191).
+citation: 
+```bibtex
+@inproceedings{haq2023many,
+  title={Many-objective reinforcement learning for online testing of dnn-enabled systems},
+  author={Haq, Fitash Ul and Shin, Donghwan and Briand, Lionel C},
+  booktitle={2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)},
+  pages={1814--1826},
+  year={2023},
+  organization={IEEE}
+}
+```
+    
 
-#### Route Coverage Testing for Autonomous Vehicles via Map Modeling
-the paper link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560890).
+#### Targeting patterns of driving characteristics in testing autonomous driving systems [`READ`]
 
----
+paper link: [here](https://ieeexplore.ieee.org/abstract/document/9438591/)
+
+citation: 
+```bibtex
+@inproceedings{arcaini2021targeting,
+  title={Targeting patterns of driving characteristics in testing autonomous driving systems},
+  author={Arcaini, Paolo and Zhang, Xiao-Yi and Ishikawa, Fuyuki},
+  booktitle={2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST)},
+  pages={295--305},
+  year={2021},
+  organization={IEEE}
+}
+```
+
+#### Route coverage testing for autonomous vehicles via map modeling [`READ`]
+
+paper link: [here](https://ieeexplore.ieee.org/abstract/document/9560890/)
+
+citation: 
+```bibtex
+@inproceedings{tang2021route,
+  title={Route coverage testing for autonomous vehicles via map modeling},
+  author={Tang, Yun and Zhou, Yuan and Wu, Fenghua and Liu, Yang and Sun, Jun and Huang, Wuling and Wang, Gang},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11450--11456},
+  year={2021},
+  organization={IEEE}
+}
+```
+    
+
+#### Achieving weight coverage for an autonomous driving system with search-based test generation [`READ`]
+
+paper link: [here](https://www.researchgate.net/profile/Thomas-Laurent-2/publication/350197011_Achieving_Weight_Coverage_for_an_Autonomous_Driving_System_with_Search-based_Test_Generation/links/608681352fb9097c0c0d26ad/Achieving-Weight-Coverage-for-an-Autonomous-Driving-System-with-Search-based-Test-Generation.pdf)
+
+citation: 
+```bibtex
+@inproceedings{laurent2020achieving,
+  title={Achieving weight coverage for an autonomous driving system with search-based test generation},
+  author={Laurent, Thomas and Arcaini, Paolo and Ishikawa, Fuyuki and Ventresque, Anthony},
+  booktitle={2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS)},
+  pages={93--102},
+  year={2020},
+  organization={IEEE}
+}
+```
+    
 
 ### Metamorphic Testing
 
-#### DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems
-the paper link is [here](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187).
+#### DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems [`READ`]
 
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187)
 
----
+citation: 
+```bibtex
+@inproceedings{zhang2018deeproad,
+  title={DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems},
+  author={Zhang, Mengshi and Zhang, Yuqun and Zhang, Lingming and Liu, Cong and Khurshid, Sarfraz},
+  booktitle={Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering},
+  pages={132--142},
+  year={2018}
+}
+```
 
 ### Combinatorial Testing
 
-#### Leveraging combinatorial testing for safety-critical computer vision datasets
-the paper link is [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Gladisch_Leveraging_Combinatorial_Testing_for_Safety-Critical_Computer_Vision_Datasets_CVPRW_2020_paper.pdf).
+#### Leveraging combinatorial testing for safety-critical computer vision datasets [`READ`]
 
----
+paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Gladisch_Leveraging_Combinatorial_Testing_for_Safety-Critical_Computer_Vision_Datasets_CVPRW_2020_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{gladisch2020leveraging,
+  title={Leveraging combinatorial testing for safety-critical computer vision datasets},
+  author={Gladisch, Christoph and Heinzemann, Christian and Herrmann, Martin and Woehrle, Matthias},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={324--325},
+  year={2020}
+}
+```
+    
 
 ### Stress Testing
 
-#### Adaptive Stress Testing for Autonomous Vehicles
-the paper link is [here](https://arxiv.org/pdf/1902.01909).
+#### Adaptive stress testing for autonomous vehicles [`READ`]
 
----
+paper link: [here](https://arxiv.org/pdf/1902.01909)
+
+citation: 
+```bibtex
+@inproceedings{koren2018adaptive,
+  title={Adaptive stress testing for autonomous vehicles},
+  author={Koren, Mark and Alsaif, Saud and Lee, Ritchie and Kochenderfer, Mykel J},
+  booktitle={2018 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1--7},
+  year={2018},
+  organization={IEEE}
+}
+```
+    
 
 ### Neuron Coverage
 
-#### Deeptest: Automated testing of deep-neural-network-driven autonomous cars
-the paper link is [here](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220).
+#### Deeptest: Automated testing of deep-neural-network-driven autonomous cars [`READ`]
 
----
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)
+
+citation: 
+```bibtex
+@inproceedings{tian2018deeptest,
+  title={Deeptest: Automated testing of deep-neural-network-driven autonomous cars},
+  author={Tian, Yuchi and Pei, Kexin and Jana, Suman and Ray, Baishakhi},
+  booktitle={Proceedings of the 40th international conference on software engineering},
+  pages={303--314},
+  year={2018}
+}
+```
 
 
-### HiL Methodology
+### Hardware-in-the-Loop
 
-#### Hardware-in-the-Loop Autonomous Driving Simulation Without Real-Time Constraints
-the paper link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723564).
 
-#### A vehicle-in-the-loop methodology for evaluating automated driving functions in virtual traffic
-the paper link is [here](https://www.researchgate.net/profile/S-Solmaz/publication/345974502_A_Vehicle-in-the-Loop_Methodology_for_Evaluating_Automated_Driving_Functions_in_Virtual_Traffic/links/60796fe38ea909241e028ce7/A-Vehicle-in-the-Loop-Methodology-for-Evaluating-Automated-Driving-Functions-in-Virtual-Traffic.pdf).
+#### A vehicle-in-the-loop methodology for evaluating automated driving functions in virtual traffic [`READ`]
 
----
+paper link: [here](https://www.researchgate.net/profile/S-Solmaz/publication/345974502_A_Vehicle-in-the-Loop_Methodology_for_Evaluating_Automated_Driving_Functions_in_Virtual_Traffic/links/60796fe38ea909241e028ce7/A-Vehicle-in-the-Loop-Methodology-for-Evaluating-Automated-Driving-Functions-in-Virtual-Traffic.pdf)
+
+citation: 
+```bibtex
+@inproceedings{solmaz2020vehicle,
+  title={A vehicle-in-the-loop methodology for evaluating automated driving functions in virtual traffic},
+  author={Solmaz, Selim and Rudigier, Martin and Mischinger, Marlies},
+  booktitle={2020 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1465--1471},
+  year={2020},
+  organization={IEEE}
+}
+```
+    
+
+#### Hardware-in-the-loop autonomous driving simulation without real-time constraints [`READ`]
+
+paper link: [here](https://ieeexplore.ieee.org/abstract/document/8723564/)
+
+citation: 
+```bibtex
+@article{brogle2019hardware,
+  title={Hardware-in-the-loop autonomous driving simulation without real-time constraints},
+  author={Brogle, Craig and Zhang, Chao and Lim, Kai Li and Br{\"a}unl, Thomas},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  volume={4},
+  number={3},
+  pages={375--384},
+  year={2019},
+  publisher={IEEE}
+}
+```
 
 ### Empirical Study
 
-#### Automated vehicle crash sequences: Patterns and potential uses in safety testing
-the paper link is [here](https://pdf.sciencedirectassets.com/271664/1-s2.0-S0001457521X00036/1-s2.0-S0001457521000488/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFEkFx44n%2B7IBMlLVLz6PAyXfJ6oTxtjxESnW5nOELzNAiEAsWZlP5V0%2FcMYZObO6nJQAla8L2KZj06c4bJ0FSUx91oqvAUI6%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDH0MB1eyi87GWPyKRSqQBV0ncao3CTbmlIAOzqCncdqs1aq%2B6ASQ16gp9AmorkUOweRufZGEAk5hZWrDKMjofBJUE2hqYAcjcMKVLlEfheJX1Oy%2FLFIyU5rw0fa6UK2haDOyZspBXSz166fvezPL23oeEyNrIAZ4%2FtiWQ8HfcrtQnO4R55tBzfMB6PfjJftpdM3hWGQP%2FulvhatZTYdMpwh8IR2wlm5z%2FHIkaaw9CleGd6omxo2jEZmF2hFLdxJR6cTkBSiVXtgEzJdq2yYIdPHS0kPMSDNU3gGuz3M1q1btn3zcSMs4emxMycMySsg4CZLM1lUPAKkelLCRQ3net%2BD4mQasWqiVLda%2Br8nnhn85cQ%2F1Iz6BF%2F50YJWrmH8shtZ2qZvqFjcezMKklsVONs7Keaf9yQTz5fMyW%2BpTR5%2FQ5tNQwo7uT6rHcgmBVD9%2F%2FDmbNDesJlqtQf5PpiqZDIqmI1LhQHgodlqOv80ntHs2dLZu2pf3PyUtikF9do%2B6%2BWZC9zHJHGelNSKtcMJtxCvhf7uvfzAeJ8GOPlLNAQbqAOv8siZzsDZm8jzRi3Lqq%2Bfl%2F2ncyGrRBAwA6xq8UTuE80shekxMf3yocm3hOJBYL5tpuBtrkxVY%2B3swLjcgqyt%2BZ5c9Dqa33TktQX%2FAQWUppgwGeU43BzruRyEXyNjy4MQLA0T8JFo8PbjrqHirxzSrMZTSI%2FmXYsZTIc%2FLhkLah9a2jg%2FQBqa%2FXrFLsTnTAImqv5wfvgBenlslZdYyhMx81rzJvMYTyz%2FfPfjs4QQ%2FonnEKE9iF%2BGlwa1Tq5IokuNf0JPAZTQpqFhvT7mDDMzyu3iNNUTWYVc6WYBZolAz%2BfVs5Vigz0anBE92bvKwvFv1SyoaS0LK5Xa3okHsMM%2BmiqUGOrEB5fVsasWVQVX4p7gpsRcRfy3JyEYVIjMxTa%2BpHZI5FZvVbv0KGeya%2FWlJiEewmx%2BxFFQmzzHH6J5nVpddvWscNSEGmoei0jg8NGg7B31I5%2FtK2edn%2F7kXXGMWUesJGUTKq6hc8urQrldaagTMs6G%2Bp4FsbtntIYBrhjXmi%2Fx4x%2BmV%2FRwdgq61ie%2B1tI75QgeNFhSOb4AYk6T0Qtvn3gHEVbtPEzyu0efA9z%2FeSaz%2FIryD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230703T104958Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY56ZY3TBX%2F20230703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=34f3382309a989e1b4fe4e9b6d1ce6e0eb8853f248b9ed32a6dd5d71f95a4d15&hash=9664040c1e05d582cfc33b49cecd10114f3119f64e0cc2bab7887ae30c4e7320&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0001457521000488&tid=spdf-ffe9f26c-1378-4539-aeea-df21ef29d3b6&sid=f555142d355c7841a438864088602d45b919gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f16520a540758555801&rr=7e0e909cc9472624&cc=jp).
 
-#### Testing of Autonomous Driving Systems: Where Are We and Where Should We Go?
-the paper link is [here](https://arxiv.org/pdf/2106.12233).
+#### Testing of autonomous driving systems: where are we and where should we go? [`READ`]
 
-#### A comprehensive study of autonomous vehicle bugs
-the paper link is [here](https://dl.acm.org/doi/pdf/10.1145/3377811.3380397).
+paper link: [here](https://arxiv.org/pdf/2106.12233)
 
-#### A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo
-the paper link is [here](https://dl.acm.org/doi/pdf/10.1145/3368089.3417063).
+citation: 
+```bibtex
+@inproceedings{lou2022testing,
+  title={Testing of autonomous driving systems: where are we and where should we go?},
+  author={Lou, Guannan and Deng, Yao and Zheng, Xi and Zhang, Mengshi and Zhang, Tianyi},
+  booktitle={Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={31--43},
+  year={2022}
+}
+```
+    
 
-#### 
-the paper link is [here]().
+#### Automated vehicle crash sequences: Patterns and potential uses in safety testing [`READ`]
 
----
+paper link: [here](https://arxiv.org/pdf/2102.06286)
 
+citation: 
+```bibtex
+@article{song2021automated,
+  title={Automated vehicle crash sequences: Patterns and potential uses in safety testing},
+  author={Song, Yu and Chitturi, Madhav V and Noyce, David A},
+  journal={Accident Analysis \& Prevention},
+  volume={153},
+  pages={106017},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+#### A comprehensive study of autonomous vehicle bugs [`READ`]
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3377811.3380397)
+
+citation: 
+```bibtex
+@inproceedings{garcia2020comprehensive,
+  title={A comprehensive study of autonomous vehicle bugs},
+  author={Garcia, Joshua and Feng, Yang and Shen, Junjie and Almanee, Sumaya and Xia, Yuan and Chen, and Qi Alfred},
+  booktitle={Proceedings of the ACM/IEEE 42nd international conference on software engineering},
+  pages={385--396},
+  year={2020}
+}
+``` 
+
+#### A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo [`READ`]
+
+paper link: [here](https://jinqiuyang.github.io/papers/fse20.pdf)
+
+citation: 
+```bibtex
+@inproceedings{peng2020first,
+  title={A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo},
+  author={Peng, Zi and Yang, Jinqiu and Chen, Tse-Hsun and Ma, Lei},
+  booktitle={Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={1240--1250},
+  year={2020}
+}
+```
 

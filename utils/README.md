@@ -1,8 +1,9 @@
 # 🍨 ADS Utilities 🍫
+*Here's some resources about ADS Utilities*
 
-This directory comprises some awesome utilities built for ADS, mainly including open-source model, open dataset, DSL for simulated scenarios and powerful integrated platforms.
+Intros:
 
----
+* This directory comprises some awesome utilities built for ADS, mainly including open-source model, open dataset, DSL for simulated scenarios and powerful integrated platforms.
 
 ## Table of Contents
 * [Model](model.md)

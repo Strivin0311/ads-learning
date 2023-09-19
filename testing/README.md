@@ -1,6 +1,9 @@
 # 📈 ADS Testing 📊
+*Here's some resources about ADS Testing*
 
-This directory comprises literature on ADS testing, primarily emphasizing adversarial attacks, scenario generation, and safety oracle/testing metrics.
+Intos:
+
+* This directory comprises literature on ADS testing, primarily emphasizing adversarial attacks, scenario generation, and safety oracle/testing metrics.
 
 ---
 
@@ -19,4 +22,19 @@ This directory comprises literature on ADS testing, primarily emphasizing advers
 
 ---
 
-For more literature, you can refer to [A Survey on Automated Driving System Testing: Landscapes and Trends](https://arxiv.org/pdf/2206.05961).
+
+#### A Survey on Automated Driving System Testing: Landscapes and Trends [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2206.05961)
+
+citation: 
+```bibtex
+@article{tang2023survey,
+  title={A Survey on Automated Driving System Testing: Landscapes and Trends},
+  author={Tang, Shuncheng and Zhang, Zhenya and Zhang, Yi and Zhou, Jixiang and Guo, Yan and Liu, Shuang and Guo, Shengjian and Li, Yan-Fu and Ma, Lei and Xue, Yinxing and others},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
+    
