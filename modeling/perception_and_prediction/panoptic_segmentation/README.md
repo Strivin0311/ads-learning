@@ -10,6 +10,39 @@ Intros:
 
 ---
 
+#### High Quality Entity Segmentation [`UNREAD`]
+
+paper link: [here](http://openaccess.thecvf.com/content/ICCV2023/html/Qi_High_Quality_Entity_Segmentation_ICCV_2023_paper.html)
+
+citation: 
+```bibtex
+@inproceedings{qi2023high,
+  title={High Quality Entity Segmentation},
+  author={Qi, Lu and Kuen, Jason and Shen, Tiancheng and Gu, Jiuxiang and Li, Wenbo and Guo, Weidong and Jia, Jiaya and Lin, Zhe and Yang, Ming-Hsuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4047--4056},
+  year={2023}
+}
+```
+    
+
+
+#### Break-A-Scene: Extracting Multiple Concepts from a Single Image [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.16311)
+
+citation: 
+```bibtex
+@article{avrahami2023break,
+  title={Break-A-Scene: Extracting Multiple Concepts from a Single Image},
+  author={Avrahami, Omri and Aberman, Kfir and Fried, Ohad and Cohen-Or, Daniel and Lischinski, Dani},
+  journal={arXiv preprint arXiv:2305.16311},
+  year={2023}
+}
+```
+
+
+
 #### Panoptic segformer: Delving deeper into panoptic segmentation with transformers [`UNREAD`]
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)
