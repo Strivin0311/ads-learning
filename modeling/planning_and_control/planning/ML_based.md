@@ -58,6 +58,23 @@ citation:
 }
 ```
 
+#### Learning latent dynamics for planning from pixels [`UNREAD`]
+
+paper link: [here](http://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)
+
+citation: 
+```bibtex
+@inproceedings{hafner2019learning,
+  title={Learning latent dynamics for planning from pixels},
+  author={Hafner, Danijar and Lillicrap, Timothy and Fischer, Ian and Villegas, Ruben and Ha, David and Lee, Honglak and Davidson, James},
+  booktitle={International conference on machine learning},
+  pages={2555--2565},
+  year={2019},
+  organization={PMLR}
+}
+```
+    
+
 
 #### End-to-end interpretable neural motion planner [`UNREAD`]
 
@@ -73,7 +90,22 @@ citation:
   year={2019}
 }
 ```
-    
+
+
+#### Mpc-inspired neural network policies for sequential decision making [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1802.05803)
+
+citation: 
+```bibtex
+@article{pereira2018mpc,
+  title={Mpc-inspired neural network policies for sequential decision making},
+  author={Pereira, Marcus and Fan, David D and An, Gabriel Nakajima and Theodorou, Evangelos},
+  journal={arXiv preprint arXiv:1802.05803},
+  year={2018}
+}
+```
+     
     
 
     
@@ -109,3 +141,19 @@ citation:
   organization={IEEE}
 }
 ```
+
+#### Qmdp-net: Deep learning for planning under partial observability [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)
+
+citation: 
+```bibtex
+@article{karkus2017qmdp,
+  title={Qmdp-net: Deep learning for planning under partial observability},
+  author={Karkus, Peter and Hsu, David and Lee, Wee Sun},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+```
+    

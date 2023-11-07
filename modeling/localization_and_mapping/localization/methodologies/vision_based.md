@@ -22,6 +22,22 @@ citation:
     
 ### Camera-based Navigation
 
+
+#### Integrating algorithmic planning and deep learning for partially observable navigation [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1807.06696)
+
+citation: 
+```bibtex
+@article{karkus2018integrating,
+  title={Integrating algorithmic planning and deep learning for partially observable navigation},
+  author={Karkus, Peter and Hsu, David and Lee, Wee Sun},
+  journal={arXiv preprint arXiv:1807.06696},
+  year={2018}
+}
+```
+    
+
 #### Image-based camera localization: an overview [`UNREAD`]
 
 paper link: [here](https://vciba.springeropen.com/articles/10.1186/s42492-018-0008-z)
