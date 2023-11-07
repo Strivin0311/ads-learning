@@ -10,6 +10,22 @@ Intros:
 
 ---
 
+#### Tri-perspective view for vision-based 3d semantic occupancy prediction [`UNREAD`]
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Tri-Perspective_View_for_Vision-Based_3D_Semantic_Occupancy_Prediction_CVPR_2023_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{huang2023tri,
+  title={Tri-perspective view for vision-based 3d semantic occupancy prediction},
+  author={Huang, Yuanhui and Zheng, Wenzhao and Zhang, Yunpeng and Zhou, Jie and Lu, Jiwen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9223--9232},
+  year={2023}
+}
+```
+    
+
 #### Bevfusion: Multi-task multi-sensor fusion with unified bird's-eye view representation [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2205.13542)
