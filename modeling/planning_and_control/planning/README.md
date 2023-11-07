@@ -12,6 +12,25 @@ Intros:
 
 ---
 
+
+#### An investigation of model-free planning [`UNREAD`]
+
+paper link: [here](http://proceedings.mlr.press/v97/guez19a/guez19a.pdf)
+
+citation: 
+```bibtex
+@inproceedings{guez2019investigation,
+  title={An investigation of model-free planning},
+  author={Guez, Arthur and Mirza, Mehdi and Gregor, Karol and Kabra, Rishabh and Racani{\`e}re, S{\'e}bastien and Weber, Th{\'e}ophane and Raposo, David and Santoro, Adam and Orseau, Laurent and Eccles, Tom and others},
+  booktitle={International Conference on Machine Learning},
+  pages={2464--2473},
+  year={2019},
+  organization={PMLR}
+}
+```
+    
+
+
 #### A review of motion planning techniques for automated vehicles [`READ`]
 
 paper link: [here](https://www.researchgate.net/profile/Fawzi-Nashashibi/publication/284766879_A_Review_of_Motion_Planning_Techniques_for_Automated_Vehicles/links/565c22ac08aefe619b251d23/A-Review-of-Motion-Planning-Techniques-for-Automated-Vehicles.pdf)

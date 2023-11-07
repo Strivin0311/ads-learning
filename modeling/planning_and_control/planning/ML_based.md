@@ -39,6 +39,43 @@ citation:
   organization={PMLR}
 }
 ```
+
+#### Combining planning and deep reinforcement learning in tactical decision making for autonomous driving [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1905.02680)
+
+citation: 
+```bibtex
+@article{hoel2019combining,
+  title={Combining planning and deep reinforcement learning in tactical decision making for autonomous driving},
+  author={Hoel, Carl-Johan and Driggs-Campbell, Katherine and Wolff, Krister and Laine, Leo and Kochenderfer, Mykel J},
+  journal={IEEE transactions on intelligent vehicles},
+  volume={5},
+  number={2},
+  pages={294--305},
+  year={2019},
+  publisher={IEEE}
+}
+```
+
+
+#### End-to-end interpretable neural motion planner [`UNREAD`]
+
+paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf)
+
+citation: 
+```bibtex
+@inproceedings{zeng2019end,
+  title={End-to-end interpretable neural motion planner},
+  author={Zeng, Wenyuan and Luo, Wenjie and Suo, Simon and Sadat, Abbas and Yang, Bin and Casas, Sergio and Urtasun, Raquel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8660--8669},
+  year={2019}
+}
+```
+    
+    
+
     
 #### End-to-end driving via conditional imitation learning [`READ`]
 
