@@ -104,3 +104,19 @@ citation:
   year={2020}
 }
 ```
+
+
+#### UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities [`READ`]
+paper link: [here](https://arxiv.org/abs/2309.14516v1)
+
+citation: 
+```bibtex
+@misc{wang2023unibev,
+      title={UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities}, 
+      author={Shiming Wang and Holger Caesar and Liangliang Nan and Julian F. P. Kooij},
+      year={2023},
+      eprint={2309.14516},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
