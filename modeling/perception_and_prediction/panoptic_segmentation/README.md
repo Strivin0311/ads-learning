@@ -47,7 +47,7 @@ citation:
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)
 
-citation: 
+citation: [here](./SegFormer.md)
 ```bibtex
 @inproceedings{li2022panoptic,
   title={Panoptic segformer: Delving deeper into panoptic segmentation with transformers},
@@ -77,7 +77,7 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf)
 
-citation: 
+citation: [here](./MaskFormer.md)
 ```bibtex
 @article{cheng2021per,
   title={Per-pixel classification is not all you need for semantic segmentation},
@@ -93,7 +93,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
 
-citation: 
+citation: [here](./panoptic_segmentation.md)
 ```bibtex
 @inproceedings{kirillov2019panoptic,
   title={Panoptic segmentation},
@@ -108,7 +108,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_UPSNet_A_Unified_Panoptic_Segmentation_Network_CVPR_2019_paper.pdf)
 
-citation: 
+citation: [here](./UPSNet.md)
 ```bibtex
 @inproceedings{xiong2019upsnet,
   title={Upsnet: A unified panoptic segmentation network},
@@ -116,5 +116,20 @@ citation:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={8818--8826},
   year={2019}
+}
+```
+
+#### Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation [`READ`]
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Borse_Panoptic_Instance_and_Semantic_Relations_A_Relational_Context_Encoder_To_CVPR_2022_paper.pdf)
+
+citation: [here](./Panoptic_Instance_and_Semantic_Relations.md)
+```bibtex
+@inproceedings{,
+  title={Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation},
+  author={},
+  booktitle={},
+  pages={1269--1279},
+  year={2022}
 }
 ```
