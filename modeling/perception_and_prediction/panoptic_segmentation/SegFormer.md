@@ -10,12 +10,12 @@ SegFormer的设计主要基于作者他们对DETR的观察：
 +    由于stuff与thing类有着许多不同的性质，因此用相同的方法处理它们不太合适；
 +    通常使用的后处理方法，例如逐像素确定argmax，在某些极端异常的影响下往往会产生假阳性（FP）错误。
 # Architecture
-![Alt text](SegFormer_Framework.png)
+![Alt text](imgs/SegFormer_Framework.png)
 ## Transformer Encoder
 与之前基于transformer的方法不同，SegFormer的Encoder采用了*可变形卷积注意力机制*（**deformable attention**）。由于可变形卷积注意力的计算复杂度较低，SegFormer的Encoder可以更好地处理高分辨率的特征图。
 ## Decoder
 ### Query Decoupling Strategy
-![Alt text](SegFormer_Query_Strategy.png)
+![Alt text](imgs/SegFormer_Query_Strategy.png)
 简单来说，query解耦策略就是将query集拆分为thing类query与stuff类query两部分。对于thing类query，ground truth由二分匹配的方法确定；对于stuff类query，模型采用*固定类分配策略*（**class-fixed assign strategy**），每个query确定一整个stuff类。
 ## Inference Strategy
 作者提出*掩码合并策略*（**Mask-Wise Merging Inference**），与以往逐像素确定argmax的方法不同，该方法根据掩码的置信度分数来确定重叠区域的归属。

@@ -4,7 +4,7 @@ classification）方法只被用于实现**实例分割**（instance-level segme
 作者提出了**MaskFormer**模型，该模型会预测一组二进制掩码，每个掩码会与一个类标签关联起来。
 在正式介绍MaskFormer之前，作者先说明了掩码分类的基本步骤：先将分割任务分为N个区域，每个区域用二进制掩码表示；随后将每个区域整体上与K个类的一些分布相关联（K个类代表数据库中存在的物体类别），当某个区域不属于任何类时，用∅来注明。*由于N个区域中的多个可以与同一个类关联*，所以掩码分类不仅*适用于实例分割*，而且*适用于语义分割*。
 # Structure of MaskFormer
-![Alt text](MaskFormer.png)
+![Alt text](imgs/MaskFormer.png)
 MaskFormer由像素级模块（**pixel-level module**）、 transformer模块（**transformer module**）以及分割模块（**segmentation module**）这三个模块组成：
 其中，
 1.    *像素级模块*负责提取用于生成二进制掩码的特征向量传给transformer模块，调用pixel decoder进行上采样生成$C_E$维的像素嵌入$E_{pixel}$∈$R^{C_{E}×H×W}$传给分割模块用于计算掩码预测；
