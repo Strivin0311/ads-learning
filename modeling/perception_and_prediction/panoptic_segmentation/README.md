@@ -77,7 +77,7 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf)
 
-citation: [here](./MaskFormer.md)
+citation: [here](./Maskformer.md)
 ```bibtex
 @article{cheng2021per,
   title={Per-pixel classification is not all you need for semantic segmentation},
