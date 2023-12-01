@@ -17,7 +17,7 @@ Intros:
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf)
 
-slides: [here](./pdfs/ViP3D End-to-end Visual Trajectory Prediction via 3D Agent Queries.pdf)
+slides: [here](https://github.com/nayutatata/ADS/blob/main/pdfs/ViP3D%20End-to-end%20Visual%20Trajectory%20Prediction%20via%203D%20Agent%20Queries.pdf)
 
 citation: 
 ```bibtex
@@ -34,7 +34,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)
 
-slides: [here](./pdfs/Sparse Graph Convolution Network for Pedestrain Trajectory Prediction.pdf)
+slides: [here](https://github.com/nayutatata/ADS/blob/main/pdfs/Sparse%20Graph%20Convolution%20Network%20for%20Pedestrain%20Trajectory%20Prediction.pdf)
 
 citation: 
 ```bibtex
@@ -83,7 +83,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Neumann_Pedestrian_and_Ego-Vehicle_Trajectory_Prediction_From_Monocular_Camera_CVPR_2021_paper.pdf)
 
-slides: [here](./pdfs/Pedestrian and ego-vehicle trajectory prediction from monocular camera.pdf)
+slides: [here](https://github.com/nayutatata/ADS/blob/main/pdfs/Pedestrian and ego-vehicle trajectory prediction from monocular camera.pdf)
 
 citation: 
 ```bibtex
