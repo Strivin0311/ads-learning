@@ -13,9 +13,11 @@ Intros:
 
 ---
 
-#### ViP3D: End-to-end visual trajectory prediction via 3d agent queries [`UNREAD`]
+#### ViP3D: End-to-end visual trajectory prediction via 3d agent queries [`READ`]
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf)
+
+slides: [here](./pdfs/ViP3D End-to-end Visual Trajectory Prediction via 3D Agent Queries.pdf)
 
 citation: 
 ```bibtex
@@ -27,12 +29,12 @@ citation:
   year={2023}
 }
 ```
-    
 
-
-#### SGCN: Sparse graph convolution network for pedestrian trajectory prediction [`UNREAD`]
+#### SGCN: Sparse graph convolution network for pedestrian trajectory prediction [`READ`]
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)
+
+slides: [here](./pdfs/Sparse Graph Convolution Network for Pedestrain Trajectory Prediction.pdf)
 
 citation: 
 ```bibtex
@@ -44,7 +46,7 @@ citation:
   year={2021}
 }
 ```
-    
+
 
 #### Shared cross-modal trajectory prediction for autonomous driving [`READ`]
 
@@ -60,9 +62,9 @@ citation:
   year={2021}
 }
 ```
-    
 
-#### Divide-and-conquer for lane-aware diverse trajectory prediction [`UNREAD`]
+
+#### Divide-and-conquer for lane-aware diverse trajectory prediction [`READ`]
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Narayanan_Divide-and-Conquer_for_Lane-Aware_Diverse_Trajectory_Prediction_CVPR_2021_paper.pdf)
 
@@ -77,9 +79,11 @@ citation:
 }
 ```
 
-#### Pedestrian and ego-vehicle trajectory prediction from monocular camera [`UNREAD`]
+#### Pedestrian and ego-vehicle trajectory prediction from monocular camera [`READ`]
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Neumann_Pedestrian_and_Ego-Vehicle_Trajectory_Prediction_From_Monocular_Camera_CVPR_2021_paper.pdf)
+
+slides: [here](./pdfs/Pedestrian and ego-vehicle trajectory prediction from monocular camera.pdf)
 
 citation: 
 ```bibtex
@@ -121,7 +125,7 @@ citation:
   year={2021}
 }
 ```
-    
+
 #### Pnpnet: End-to-end perception and prediction with tracking in the loop [`READ`]
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PnPNet_End-to-End_Perception_and_Prediction_With_Tracking_in_the_Loop_CVPR_2020_paper.pdf)
@@ -136,9 +140,9 @@ citation:
   year={2020}
 }
 ```
-    
-    
-    
+
+
+​    
 #### Motion estimation for self-driving cars with a generalized camera [`UNREAD`]
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Motion_Estimation_for_2013_CVPR_paper.pdf)
