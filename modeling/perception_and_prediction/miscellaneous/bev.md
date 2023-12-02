@@ -74,7 +74,7 @@ citation:
 ```
     
 
-#### Bevfusion: A simple and robust lidar-camera fusion framework [`UNREAD`]
+#### Bevfusion: A simple and robust lidar-camera fusion framework [`READ`]
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/43d2b7fbee8431f7cef0d0afed51c691-Paper-Conference.pdf)
 
