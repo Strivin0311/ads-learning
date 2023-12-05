@@ -18,6 +18,8 @@ Intros:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)
 
+notes: [Planning-oriented autonomous driving](notes/Planning-oriented%20Autonomous%20Driving/Planning-oriented%20Autonomous%20Driving.md)
+
 citation: 
 ```bibtex
 @inproceedings{hu2023planning,
@@ -28,7 +30,7 @@ citation:
   year={2023}
 }
 ```
-    
+
 
 #### Model-based imitation learning for urban driving [`UNREAD`]
 
@@ -97,6 +99,8 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf)
 
+notes: [Mp3: A unified model to map, perceive, predict and plan](notes/A%20Unified%20Model%20To%20Map%20Perceive%20Predict%20and%20Plan/Mp3%20A%20unified%20model%20to%20map,%20perceive,%20predict%20and%20plan.md)
+
 citation: 
 ```bibtex
 @inproceedings{casas2021mp3,
@@ -129,6 +133,8 @@ citation:
 #### End to end learning for self-driving cars [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1604.07316.pdf%5D)
+
+notes: [End to end learning for self-driving cars](notes/End%20to%20End%20Self%20Driving%20Cars/End%20to%20End%20Learning%20for%20Self-Driving%20Cars.md)
 
 citation: 
 ```bibtex
