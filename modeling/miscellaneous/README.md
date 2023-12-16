@@ -8,6 +8,20 @@ Intros:
 
 ### Survey
 
+#### Vision language models in autonomous driving and intelligent transportation systems [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.14414)
+
+citation: 
+```bibtex
+@article{zhou2023vision,
+  title={Vision language models in autonomous driving and intelligent transportation systems},
+  author={Zhou, Xingcheng and Liu, Mingyu and Zagar, Bare Luka and Yurtsever, Ekim and Knoll, Alois C},
+  journal={arXiv preprint arXiv:2310.14414},
+  year={2023}
+}
+```
+
 
 #### Deep neural networks and data for automated driving: Robustness, uncertainty quantification, and insights towards safety [`READ`]
 

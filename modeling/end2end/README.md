@@ -3,6 +3,7 @@
 
 
 Intros:
+
 * End-to-end autonomous driving is an approach where a single (large) model is responsible for controlling all aspects of the vehicle's operation, directly mapping sensor inputs to control outputs without any explicit breakdown of the task into sub-tasks like perception, prediction, and control(but maybe implicitly).
 
 * In a typical end-to-end setup, the model might take raw or processed sensor data (like images from a camera or lidar point clouds) and directly output steering commands, acceleration, and braking. These models are often trained using supervised learning techniques, with data collected from humans driving in a variety of environments and conditions.
@@ -11,8 +12,59 @@ Intros:
 
 * The main advantage of the end-to-end approach is its potential for simplicity and efficiency, as a single model can learn to perform the complex task of driving without the need for manual engineering of different stages in the pipeline. However, it also has several challenges. These include the difficulty of obtaining sufficient diverse and representative training data, the challenge of ensuring safety and reliability of a black-box model, and the current lack of interpretability of these models, which makes it difficult to diagnose and fix issues.
 
-
 ---
+
+### Driving with LLMs
+
+
+#### Drivegpt4: Interpretable end-to-end autonomous driving via large language model [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.01412)
+
+citation: 
+```bibtex
+@article{xu2023drivegpt4,
+  title={Drivegpt4: Interpretable end-to-end autonomous driving via large language model},
+  author={Xu, Zhenhua and Zhang, Yujia and Xie, Enze and Zhao, Zhen and Guo, Yong and Wong, Kenneth KY and Li, Zhenguo and Zhao, Hengshuang},
+  journal={arXiv preprint arXiv:2310.01412},
+  year={2023}
+}
+```
+
+
+#### Driving with llms: Fusing object-level vector modality for explainable autonomous driving [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.01957)
+
+citation: 
+```bibtex
+@article{chen2023driving,
+  title={Driving with llms: Fusing object-level vector modality for explainable autonomous driving},
+  author={Chen, Long and Sinavski, Oleg and H{\"u}nermann, Jan and Karnsund, Alice and Willmott, Andrew James and Birch, Danny and Maund, Daniel and Shotton, Jamie},
+  journal={arXiv preprint arXiv:2310.01957},
+  year={2023}
+}
+```
+    
+
+#### Drive like a human: Rethinking autonomous driving with large language models [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2307.07162)
+
+citation: 
+```bibtex
+@article{fu2023drive,
+  title={Drive like a human: Rethinking autonomous driving with large language models},
+  author={Fu, Daocheng and Li, Xin and Wen, Licheng and Dou, Min and Cai, Pinlong and Shi, Botian and Qiao, Yu},
+  journal={arXiv preprint arXiv:2307.07162},
+  year={2023}
+}
+```
+    
+
+
+### Others
+
 
 #### Planning-oriented autonomous driving [`READ`]
 
