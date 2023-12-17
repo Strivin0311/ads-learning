@@ -11,6 +11,22 @@ Intros:
 ---
 
 
+#### Type-to-Track: Retrieve Any Object via Prompt-based Tracking [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.13495)
+
+citation: 
+```bibtex
+@article{nguyen2023type,
+  title={Type-to-Track: Retrieve Any Object via Prompt-based Tracking},
+  author={Nguyen, Pha and Quach, Kha Gia and Kitani, Kris and Luu, Khoa},
+  journal={arXiv preprint arXiv:2305.13495},
+  year={2023}
+}
+```
+    
+
+
 #### Mutr3d: A multi-camera tracking framework via 3d-to-2d queries [`UNREAD`]
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Zhang_MUTR3D_A_Multi-Camera_Tracking_Framework_via_3D-to-2D_Queries_CVPRW_2022_paper.pdf)

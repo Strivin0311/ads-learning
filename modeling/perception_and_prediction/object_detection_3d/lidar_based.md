@@ -10,6 +10,23 @@ Intros:
 
 ---
 
+
+#### HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.20234)
+
+citation: 
+```bibtex
+@article{zhang2023hednet,
+  title={HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds},
+  author={Zhang, Gang and Chen, Junnan and Gao, Guohuan and Li, Jianmin and Hu, Xiaolin},
+  journal={arXiv preprint arXiv:2310.20234},
+  year={2023}
+}
+```
+    
+
+
 #### Multimodal vehicle detection: fusing 3D-LIDAR and color camera data [`UNREAD`]
 
 paper link: [here](https://www.researchgate.net/profile/Alireza-Asvadi/publication/320089205_Multimodal_vehicle_detection_Fusing_3D-LIDAR_and_color_camera_data/links/5afd4fe4aca272b5d87091c2/Multimodal-vehicle-detection-Fusing-3D-LIDAR-and-color-camera-data.pdf)

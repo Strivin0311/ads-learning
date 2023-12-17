@@ -14,56 +14,11 @@ Intros:
 
 ---
 
-### Driving with LLMs
+## Table of Contents
+* [Driving with LLMs](./driving_with_llms.md)
 
+---
 
-#### Drivegpt4: Interpretable end-to-end autonomous driving via large language model [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2310.01412)
-
-citation: 
-```bibtex
-@article{xu2023drivegpt4,
-  title={Drivegpt4: Interpretable end-to-end autonomous driving via large language model},
-  author={Xu, Zhenhua and Zhang, Yujia and Xie, Enze and Zhao, Zhen and Guo, Yong and Wong, Kenneth KY and Li, Zhenguo and Zhao, Hengshuang},
-  journal={arXiv preprint arXiv:2310.01412},
-  year={2023}
-}
-```
-
-
-#### Driving with llms: Fusing object-level vector modality for explainable autonomous driving [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2310.01957)
-
-citation: 
-```bibtex
-@article{chen2023driving,
-  title={Driving with llms: Fusing object-level vector modality for explainable autonomous driving},
-  author={Chen, Long and Sinavski, Oleg and H{\"u}nermann, Jan and Karnsund, Alice and Willmott, Andrew James and Birch, Danny and Maund, Daniel and Shotton, Jamie},
-  journal={arXiv preprint arXiv:2310.01957},
-  year={2023}
-}
-```
-    
-
-#### Drive like a human: Rethinking autonomous driving with large language models [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2307.07162)
-
-citation: 
-```bibtex
-@article{fu2023drive,
-  title={Drive like a human: Rethinking autonomous driving with large language models},
-  author={Fu, Daocheng and Li, Xin and Wen, Licheng and Dou, Min and Cai, Pinlong and Shi, Botian and Qiao, Yu},
-  journal={arXiv preprint arXiv:2307.07162},
-  year={2023}
-}
-```
-    
-
-
-### Others
 
 
 #### Planning-oriented autonomous driving [`READ`]

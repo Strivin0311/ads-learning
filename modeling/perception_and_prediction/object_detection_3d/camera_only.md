@@ -14,6 +14,21 @@ Intros:
 ### Monocular Camera 3D Objection Detection
 
 
+#### Depth-discriminative Metric Learning for Monocular 3D Object Detection ['UNREAD']
+
+paper link: [here](https://openreview.net/attachment?id=ZNBblMEP16&name=pdf)
+
+citation: 
+```bibtex
+@inproceedings{choi2023depth,
+  title={Depth-discriminative Metric Learning for Monocular 3D Object Detection},
+  author={Choi, Wonhyeok and Shin, Mingyu and Im, Sunghoon},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+
+
 #### Probabilistic and geometric depth: Detecting objects in perspective [`UNREAD`]
 
 paper link: [here](https://proceedings.mlr.press/v164/wang22i/wang22i.pdf)
@@ -129,6 +144,22 @@ citation:
 ```
 
 ### Multi-view Camera 3D Objection Detection
+
+
+#### Leveraging vision-centric multi-modal expertise for 3d object detection [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.15670)
+
+citation: 
+```bibtex
+@article{huang2023leveraging,
+  title={Leveraging vision-centric multi-modal expertise for 3d object detection},
+  author={Huang, Linyan and Li, Zhiqi and Sima, Chonghao and Wang, Wenhai and Wang, Jingdong and Qiao, Yu and Li, Hongyang},
+  journal={arXiv preprint arXiv:2310.15670},
+  year={2023}
+}
+```
+    
 
 
 #### Time will tell: New outlooks and a baseline for temporal multi-view 3d object detection [`UNREAD`]
