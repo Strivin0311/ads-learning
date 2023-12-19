@@ -83,7 +83,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Neumann_Pedestrian_and_Ego-Vehicle_Trajectory_Prediction_From_Monocular_Camera_CVPR_2021_paper.pdf)
 
-slides: [here](https://github.com/nayutatata/ADS/blob/main/pdfs/Pedestrian and ego-vehicle trajectory prediction from monocular camera.pdf)
+slides: [here](https://github.com/Strivin0311/ads-learning/blob/lr/modeling/perception_and_prediction/trajectory_prediction/pdfs/Pedestrian%20and%20ego-vehicle%20trajectory%20prediction%20from%20monocular%20camera.pdf)
 
 citation: 
 ```bibtex
