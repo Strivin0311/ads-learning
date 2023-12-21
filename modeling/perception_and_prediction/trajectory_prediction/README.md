@@ -96,9 +96,11 @@ citation:
 }
 ```
 
-#### Safe local motion planning with self-supervised freespace forecasting [`UNREAD`]
+#### Safe local motion planning with self-supervised freespace forecasting [`READ`]
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Safe_Local_Motion_Planning_With_Self-Supervised_Freespace_Forecasting_CVPR_2021_paper.pdf)
+
+slides: [here](./pdfs/Hu_Safe_Local_Motion_Planning_With_Self-Supervised_Freespace_Forecasting.pdf)
 
 citation: 
 ```bibtex
