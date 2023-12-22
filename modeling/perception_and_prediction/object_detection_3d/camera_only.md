@@ -33,7 +33,7 @@ citation:
 }
 ```
 
-#### Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation [`READ`]
+#### Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation [`UNREAD`]
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)
 
@@ -51,11 +51,13 @@ citation:
 
 
 
-#### Fcos3d: Fully convolutional one-stage monocular 3d object detection [`UNREAD`]
+#### Fcos3d: Fully convolutional one-stage monocular 3d object detection [`READ`]
 
 paper link: [here](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Wang_FCOS3D_Fully_Convolutional_One-Stage_Monocular_3D_Object_Detection_ICCVW_2021_paper.pdf)
 
-citation: 
+notes：[here](notes/Fully Convolutional One Stage.md)
+
+citation: s
 
 ```bibtex
 @inproceedings{wang2021fcos3d,
@@ -165,5 +167,3 @@ citation:
   year={2017}
 }
 ```
-
-
