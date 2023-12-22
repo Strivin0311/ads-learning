@@ -1,7 +1,9 @@
 # Lidar-based 3D Objection Detection
+
 *Here's some resources about Lidar-based 3D Objection Detection*
 
 Intros:
+
 * This directory comprises some methods based on Lidar(may also using camera too) for 3D Object Detection, that aims to recognize and locate objects around the vehicle using data gathered from Lidar (Light Detection and Ranging) sensors, which is believed as the core sensor for perception.
 
 * Lidar sensors use lasers to measure distances and can create detailed 3D maps of the surrounding environment, often represented as point clouds. These sensors are particularly effective in providing accurate distance readings, identifying object shapes, and detecting obstacles, even in challenging lighting conditions.
@@ -10,12 +12,14 @@ Intros:
 
 ---
 
-
-#### HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [`UNREAD`]
+#### HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.20234)
 
+notes:[here](https://github.com/Strivin0311/ads-learning/blob/xs/modeling/perception_and_prediction/object_detection_3d/notes/HEDNET.pdf)
+
 citation: 
+
 ```bibtex
 @article{zhang2023hednet,
   title={HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds},
@@ -24,7 +28,7 @@ citation:
   year={2023}
 }
 ```
-    
+
 
 
 #### Multimodal vehicle detection: fusing 3D-LIDAR and color camera data [`UNREAD`]
@@ -32,6 +36,7 @@ citation:
 paper link: [here](https://www.researchgate.net/profile/Alireza-Asvadi/publication/320089205_Multimodal_vehicle_detection_Fusing_3D-LIDAR_and_color_camera_data/links/5afd4fe4aca272b5d87091c2/Multimodal-vehicle-detection-Fusing-3D-LIDAR-and-color-camera-data.pdf)
 
 citation: 
+
 ```bibtex
 @article{asvadi2018multimodal,
   title={Multimodal vehicle detection: fusing 3D-LIDAR and color camera data},
@@ -44,12 +49,12 @@ citation:
 }
 ```
 
-
 #### 3d fully convolutional network for vehicle detection in point cloud [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1611.08069)
 
 citation: 
+
 ```bibtex
 @inproceedings{li20173d,
   title={3d fully convolutional network for vehicle detection in point cloud},
@@ -60,13 +65,13 @@ citation:
   organization={IEEE}
 }
 ```
-    
 
 #### Vehicle detection from 3d lidar using fully convolutional network [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1608.07916)
 
 citation: 
+
 ```bibtex
 @article{li2016vehicle,
   title={Vehicle detection from 3d lidar using fully convolutional network},
