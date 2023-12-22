@@ -55,7 +55,7 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Wang_FCOS3D_Fully_Convolutional_One-Stage_Monocular_3D_Object_Detection_ICCVW_2021_paper.pdf)
 
-notes：[here]([Fully Convolutional One Stage.pdf - 南大云盘 NJU Box](https://box.nju.edu.cn/lib/d3e17d19-f448-4663-ad0f-72e377274d8e/file/notes/Fully%20Convolutional%20One%20Stage.pdf))
+notes：[here](https://github.com/Strivin0311/ads-learning/blob/xs/modeling/perception_and_prediction/object_detection_3d/notes/Fully%20Convolutional%20One%20Stage.pdf)
 
 citation: 
 
