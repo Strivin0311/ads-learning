@@ -73,6 +73,8 @@ citation:
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w60/Liu_SMOKE_Single-Stage_Monocular_3D_Object_Detection_via_Keypoint_Estimation_CVPRW_2020_paper.pdf)
 
+notes:[here](https://github.com/Strivin0311/ads-learning/blob/xs/modeling/perception_and_prediction/object_detection_3d/notes/Smoke.pdf)
+
 citation: 
 
 ```bibtex
@@ -122,6 +124,8 @@ citation:
 #### Holistic scene understanding for 3d object detection with rgbd cameras [`READ`]
 
 paper link: [here](http://openaccess.thecvf.com/content_iccv_2013/papers/Lin_Holistic_Scene_Understanding_2013_ICCV_paper.pdf)
+
+notes:[here](https://github.com/Strivin0311/ads-learning/blob/xs/modeling/perception_and_prediction/object_detection_3d/notes/Holistic%20Scene%20Understanding.pdf)
 
 citation: 
 
