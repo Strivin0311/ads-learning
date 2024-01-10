@@ -1,6 +1,35 @@
 # Driving with LLMs
 *Here're some resources about Driving with LLMs*
 
+#### DriveLM: Driving with Graph Visual Question Answering ['READ']
+
+paper link: [here](https://arxiv.org/pdf/2312.14150.pdf)
+
+citation:
+```bibtex
+@article{sima2023drivelm,
+  title={Drivelm: Driving with graph visual question answering},
+  author={Sima, Chonghao and Renz, Katrin and Chitta, Kashyap and Chen, Li and Zhang, Hanxue and Xie, Chengen and Luo, Ping and Geiger, Andreas and Li, Hongyang},
+  journal={arXiv preprint arXiv:2312.14150},
+  year={2023}
+}~~~~
+```
+
+
+#### DriveMLM- Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving ['READ']
+
+paper link: [here](https://arxiv.org/pdf/2312.09245)
+
+citation:
+```bibtex
+@article{wang2023drivemlm,
+  title={Drivemlm: Aligning multi-modal large language models with behavioral planning states for autonomous driving},
+  author={Wang, Wenhai and Xie, Jiangwei and Hu, ChuanYang and Zou, Haoming and Fan, Jianan and Tong, Wenwen and Wen, Yang and Wu, Silei and Deng, Hanming and Li, Zhiqi and others},
+  journal={arXiv preprint arXiv:2312.09245},
+  year={2023}
+}
+```
+
 
 #### Drivegpt4: Interpretable end-to-end autonomous driving via large language model [`READ`]
 
