@@ -1,5 +1,5 @@
 # Trajectory Prediction
-*Here's some resources about Trajectory Prediction*
+*Here're some resources about Trajectory Prediction*
 
 Intros:
 * This directory is about the methodology of Trajectory Prediction task in the prediction stage, that is concerned with forecasting the future movements of surrounding dynamic entities such as vehicles, pedestrians, and cyclists. This task is fundamental for safe and efficient navigation, as it helps the autonomous vehicle to anticipate potential changes in the environment and make timely, proactive driving decisions.

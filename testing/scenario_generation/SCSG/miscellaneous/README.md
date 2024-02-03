@@ -1,5 +1,5 @@
 # Miscellaneous Methods for SCSG
-*Here's some resources about Miscellaneous Methods for SCSG*
+*Here're some resources about Miscellaneous Methods for SCSG*
 
 Intros:
 

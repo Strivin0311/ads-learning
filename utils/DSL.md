@@ -1,5 +1,5 @@
 # Domain Specific Language(DSL) for ADS
-*Here's some resources about Domain Specific Language(DSL) for ADS*
+*Here're some resources about Domain Specific Language(DSL) for ADS*
 
 Intros:
 

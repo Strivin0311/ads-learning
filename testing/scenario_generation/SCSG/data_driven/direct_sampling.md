@@ -1,5 +1,5 @@
 # Direct Sampling Methods for SCSG
-*Here's some resources about Direct Sampling Methods for SCSG*
+*Here're some resources about Direct Sampling Methods for SCSG*
 
 Intros:
 

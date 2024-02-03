@@ -1,5 +1,5 @@
 # Planning & Control
-*Here's some resources about Planning & Control*
+*Here're some resources about Planning & Control*
 
 Intros:
 * Planning and Control are the final stages of the decision-making pipeline, directly affecting the vehicle's real-world movements. Once the environment is perceived and understood and the trajectories of other dynamic entities are predicted, the system can plan its actions and control the vehicle accordingly.

@@ -1,5 +1,5 @@
 # Occupancy Prediction
-*Here's some resources about Occupancy Prediction*
+*Here're some resources about Occupancy Prediction*
 
 
 Intros:

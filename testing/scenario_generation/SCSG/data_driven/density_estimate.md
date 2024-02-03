@@ -1,5 +1,5 @@
 # Density Estimation for SCSG
-*Here's some resources about Density Estimation for SCSG*
+*Here're some resources about Density Estimation for SCSG*
 
 Intros:
 

@@ -1,5 +1,5 @@
 # Multi-Object Tracking
-*Here's some resources about Multi-Object Tracking*
+*Here're some resources about Multi-Object Tracking*
 
 Intros: 
 * This directory consists of some methods of Multi-Object Tracking(MOT) task within the perception stage, which aims to maintain the identity of each observed object from frame to frame, providing continuous spatial and temporal information about these entities, utilizing sensor data.

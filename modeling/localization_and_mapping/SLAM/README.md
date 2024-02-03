@@ -1,5 +1,5 @@
 # Simultaneous Localization and Mapping (SLAM)
-*Here's some resources about Simultaneous Localization and Mapping (SLAM)*
+*Here're some resources about Simultaneous Localization and Mapping (SLAM)*
 
 Intros:
 * This is an introduction about Simultaneous Localization and Mapping(SLAM), a technique used in robotics and autonomous vehicles to simultaneously construct or update a map of an unknown environment while keeping track of the vehicle's or robot's location within it.

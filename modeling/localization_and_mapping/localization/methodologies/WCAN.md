@@ -1,5 +1,5 @@
 # Wireless Communication Assisted Navigation
-*Here's some resources about Wireless Communication Assisted Navigation*
+*Here're some resources about Wireless Communication Assisted Navigation*
 
 Intros:
 * This is an introduction about the Wireless Communication Assisted Navigation(WCAN) technology.

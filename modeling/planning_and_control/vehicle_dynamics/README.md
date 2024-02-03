@@ -1,5 +1,5 @@
 # Vehicle Dynamics
-*Here's some resources about Vehicle Dynamics*
+*Here're some resources about Vehicle Dynamics*
 
 Intros:
 * Vehicle Dynamics provides the necessary theoretical framework to understand and predict a vehicle's response to various inputs and conditions, which in turn helps in designing, tuning, and controlling both traditional and autonomous vehicles for enhanced performance and safety.

@@ -1,5 +1,5 @@
 # ADS Testing Oracle
-*Here's some resources about ADS Testing Oracle*
+*Here're some resources about ADS Testing Oracle*
 
 
 Intros:

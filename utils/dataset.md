@@ -1,5 +1,5 @@
 # # Dataset for ADS
-*Here's some resources about # Dataset for ADS*
+*Here're some resources about # Dataset for ADS*
 
 Intros:
 

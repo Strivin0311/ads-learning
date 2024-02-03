@@ -1,5 +1,5 @@
 # 🔨 ADS Modeling 🔧
-*Here's some resources about ADS Modeling*
+*Here're some resources about ADS Modeling*
 
 Intros:
 

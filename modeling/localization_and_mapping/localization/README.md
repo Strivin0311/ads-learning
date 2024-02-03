@@ -1,5 +1,5 @@
 # Localization
-*Here's some resources about Localization*
+*Here're some resources about Localization*
 
 Intros:
 * This is an introduction about localization/navigation technology, which is highly advanced and mature, largely due to the widespread use of GPS in nearly all contemporary mobile devices.

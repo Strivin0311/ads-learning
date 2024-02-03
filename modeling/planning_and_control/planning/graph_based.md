@@ -1,5 +1,5 @@
 # Graph-based Planning
-*Here's some resources about Graph-based Planning*
+*Here're some resources about Graph-based Planning*
 
 Intros:
 * The graph-based planning algorithms often involve transforming the driving environment into a grid or graph and finding the optimal path using algorithms such as A* or Dijkstra's. Nodes in the graph represent possible vehicle states, and edges represent feasible transitions between states. This is one of the oldest and most widely used approaches in path planning.

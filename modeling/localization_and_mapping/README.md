@@ -1,5 +1,5 @@
 # Localization & Mapping
-*Here's some resources about Localization & Mapping*
+*Here're some resources about Localization & Mapping*
 
 Intros:
 * This directory contains a collection of literature concerning localization and mapping methodologies for ADS, which are crucial for maintaining a global awareness of vehicle positions. 

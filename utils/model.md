@@ -1,5 +1,5 @@
 # Models for ADS
-*Here's some resources about Models for ADS*
+*Here're some resources about Models for ADS*
 
 Intros:
 

@@ -1,5 +1,5 @@
 # Multi-sensor Fusion Navigation
-*Here's some resources about Multi-sensor Fusion Navigation*
+*Here're some resources about Multi-sensor Fusion Navigation*
 
 Intros:
 * This is an introduction about the prevailing multi-sensor fusion navigation technology, which usually contains GPU/IMS and vision sensor(Lidar and Camera), utilizing KF for fusion.

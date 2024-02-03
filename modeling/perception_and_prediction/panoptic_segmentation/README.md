@@ -1,5 +1,5 @@
 # Panoptic Segmentation
-*Here's some resources about Panoptic Segmentation for autonomous driving*
+*Here're some resources about Panoptic Segmentation for autonomous driving*
 
 Intros:
 * This directory comprises methods on Panoptic Segmentation task, which aims to provide a comprehensive understanding of the driving environment by categorizing each pixel in an image into different semantic classes (Semantic Segmentation), as well as identifying and distinguishing each individual object of certain classes (Instance Segmentation).

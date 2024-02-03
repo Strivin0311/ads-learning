@@ -1,5 +1,5 @@
 # Model Predictive Control
-*Here's some resources about Model Predictive Control*
+*Here're some resources about Model Predictive Control*
 
 Intros:
 

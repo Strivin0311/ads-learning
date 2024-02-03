@@ -1,5 +1,5 @@
 # 🍨 ADS Utilities 🍫
-*Here's some resources about ADS Utilities*
+*Here're some resources about ADS Utilities*
 
 Intros:
 

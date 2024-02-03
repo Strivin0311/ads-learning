@@ -1,5 +1,5 @@
 # Miscellaneous Methodology for Perception and Prediction
-*Here's some resources about Miscellaneous Methodology for Perception and Prediction*
+*Here're some resources about Miscellaneous Methodology for Perception and Prediction*
 
 Intros: 
 * This directory contains some other methodologies for perception and prediction stages, such as the prevailing BEV representation, end-to-end perception and prediction, etc.

@@ -1,5 +1,5 @@
 # Safety-Critical Scenario Generation
-*Here's some resources about Safety-Critical Scenario Generation*
+*Here're some resources about Safety-Critical Scenario Generation*
 
 Intros:
 

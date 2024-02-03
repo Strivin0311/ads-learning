@@ -1,5 +1,5 @@
 # Planning
-*Here's some resources about Planning*
+*Here're some resources about Planning*
 
 Intros:
 

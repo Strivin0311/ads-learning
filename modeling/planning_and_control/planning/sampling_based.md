@@ -1,5 +1,5 @@
 # Sampling-based Planning
-*Here's some resources about Sampling-based Planning*
+*Here're some resources about Sampling-based Planning*
 
 Intros:
 * The sampling-based planning algorithms, well-known as Rapidly-exploring Random Trees (RRT) and Probabilistic Roadmaps (PRM), generate a set of random samples in the state space and connect them to form a path. They are particularly effective in high-dimensional spaces and complex environments.

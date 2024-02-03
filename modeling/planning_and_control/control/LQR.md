@@ -1,5 +1,5 @@
 # Linear Quadratic Regulator Control
-*Here's some resources about LQR Control*
+*Here're some resources about LQR Control*
 
 Intros:
 * Linear Quadratic Regulator (LQR) control is an optimal control strategy that is used to control linear dynamic systems. It leverages the principles of optimal control theory to calculate a control input that will drive the system to a desired state while minimizing a predefined cost function. This cost function is typically defined as the sum of the squares of both the system's states and control inputs, making the function quadratic.

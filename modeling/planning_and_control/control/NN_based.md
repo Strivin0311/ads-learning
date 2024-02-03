@@ -1,5 +1,5 @@
 # Neural Network-based Control
-*Here's some resources about NN-based Control*
+*Here're some resources about NN-based Control*
 
 Intos: 
 * With the rise of machine learning, neural networks are also being used for vehicle control. They can learn complex non-linear relationships between inputs and outputs, which can potentially improve control performance.

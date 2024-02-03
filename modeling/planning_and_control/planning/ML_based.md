@@ -1,5 +1,5 @@
 # Machine Learning-based Planning
-*Here's some resources about Machine Learning-based Planning*
+*Here're some resources about Machine Learning-based Planning*
 
 Intros:
 

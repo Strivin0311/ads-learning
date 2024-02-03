@@ -1,5 +1,5 @@
 # Data-driven Methods for SCSG
-*Here's some resources about Data-driven Methods for SCSG*
+*Here're some resources about Data-driven Methods for SCSG*
 
 Intros:
 * Data-driven approaches primarily leverage existing datasets of real-world driving scenarios, such as traffic incident data, human driving behavior data, or sensor data from test drives. These data sets are mined to extract scenarios as "edge cases," rare but potentially dangerous situations that might not be considered in traditional scenario modeling, including complex interactions, near-miss events, or situations that lead to accidents, 

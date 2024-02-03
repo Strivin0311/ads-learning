@@ -1,5 +1,5 @@
 # General SLAM
-*Here's some resources about General SLAM*
+*Here're some resources about General SLAM*
 
 Intros:
 

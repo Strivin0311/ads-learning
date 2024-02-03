@@ -1,5 +1,5 @@
 # Platform for ADS
-*Here's some resources about Platform for ADS*
+*Here're some resources about Platform for ADS*
 
 Intros:
 
