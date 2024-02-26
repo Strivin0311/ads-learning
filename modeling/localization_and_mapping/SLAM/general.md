@@ -12,7 +12,7 @@ Intros:
 
 paper link: [here](http://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial1.pdf)
 
-summary link: [here](https://github.com/Strivin0311/ads-learning/tree/lr/modeling/localization_and_mapping/SLAM/summary/General%20SLAM.pdf)
+summary link: [here](https://github.com/Strivin0311/ads-learning/blob/fwy/modeling/localization_and_mapping/SLAM/summary/General%20SLAM.pdf)
 
 citation: 
 ```bibtex
