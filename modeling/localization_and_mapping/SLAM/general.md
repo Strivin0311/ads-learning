@@ -12,6 +12,8 @@ Intros:
 
 paper link: [here](http://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial1.pdf)
 
+summary link: [here](https://github.com/Strivin0311/ads-learning/tree/lr/modeling/localization_and_mapping/SLAM/summary/General%20SLAM.pdf)
+
 citation: 
 ```bibtex
 @article{durrant2006simultaneous,
@@ -25,7 +27,7 @@ citation:
   publisher={IEEE}
 }
 ```
-    
+
 #### Simultaneous localization and mapping (SLAM): Part II [`READ`]
 
 paper link: [here](https://ieeexplore.ieee.org/iel5/100/35300/01678144.pdf)
@@ -43,4 +45,4 @@ citation:
   publisher={IEEE}
 }
 ```
-    
+

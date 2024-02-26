@@ -20,11 +20,13 @@ citation:
   year={2023}
 }
 ```
-    
+
 
 #### Hdmapgen: A hierarchical graph generative model of high definition maps [`READ`]
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.pdf)
+
+summary link: [here](https://github.com/Strivin0311/ads-learning/tree/lr/modeling/localization_and_mapping/HD_map/summary/HDMapGen.pdf)
 
 citation: 
 ```bibtex
