@@ -28,7 +28,22 @@ citation:
 }
 ```
     
+#### Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities [`UNREAD`]
 
+paper link: [here](https://arxiv.org/pdf/2204.06171)
+
+citation:
+
+```bibtex
+@misc{sun2022selfsupervised,
+      title={Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities}, 
+      author={Jiankai Sun and Shreyas Kousik and David Fridovich-Keil and Mac Schwager},
+      year={2022},
+      eprint={2204.06171},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.RO' full_name='Robotics' is_active=True alt_name=None in_archive='cs' is_general=False description='Roughly includes material in ACM Subject Class I.2.9.'}
+}
+```
 
 #### SGCN: Sparse graph convolution network for pedestrian trajectory prediction [`UNREAD`]
 
@@ -119,6 +134,29 @@ citation:
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={16107--16116},
   year={2021}
+}
+```
+
+
+#### Egocentric Human Trajectory Forecasting with a Wearable Camera and Multi-Modal Fusion [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2111.00993)
+
+citation:
+
+```bibtex
+@article{Qiu_2022,
+   title={Egocentric Human Trajectory Forecasting With a Wearable Camera and Multi-Modal Fusion},
+   volume={7},
+   ISSN={2377-3774},
+   url={http://dx.doi.org/10.1109/LRA.2022.3188101},
+   DOI={10.1109/lra.2022.3188101},
+   number={4},
+   journal={IEEE Robotics and Automation Letters},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Qiu, Jianing and Chen, Lipeng and Gu, Xiao and Lo, Frank P.-W. and Tsai, Ya-Yen and Sun, Jiankai and Liu, Jiaqi and Lo, Benny},
+   year={2022},
+   month=oct, pages={8799–8806} 
 }
 ```
     

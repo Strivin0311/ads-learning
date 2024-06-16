@@ -13,6 +13,24 @@ Intros:
 ---
 
 
+#### Survey of deep reinforcement learning for motion planning of autonomous vehicles [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2001.11231)
+
+citation:
+
+```bibtex
+@misc{aradi2020survey,
+      title={Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles}, 
+      author={Szilárd Aradi},
+      year={2020},
+      eprint={2001.11231},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
+}
+```
+
+
 #### An investigation of model-free planning [`UNREAD`]
 
 paper link: [here](http://proceedings.mlr.press/v97/guez19a/guez19a.pdf)

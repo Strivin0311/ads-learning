@@ -26,6 +26,41 @@ citation:
 ```
     
 
+#### SegVoxelNet: Exploring Semantic Context and Depth-aware Features for 3D Vehicle Detection from Point Cloud [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2002.05316)
+
+citation:
+
+```bibtex
+@misc{yi2020segvoxelnet,
+      title={SegVoxelNet: Exploring Semantic Context and Depth-aware Features for 3D Vehicle Detection from Point Cloud}, 
+      author={Hongwei Yi and Shaoshuai Shi and Mingyu Ding and Jiankai Sun and Kui Xu and Hui Zhou and Zhe Wang and Sheng Li and Guoping Wang},
+      year={2020},
+      eprint={2002.05316},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
+
+
+#### Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1910.06727)
+
+citation:
+
+```bibtex
+@misc{xu2019depth,
+      title={Depth Completion from Sparse LiDAR Data with Depth-Normal Constraints}, 
+      author={Yan Xu and Xinge Zhu and Jianping Shi and Guofeng Zhang and Hujun Bao and Hongsheng Li},
+      year={2019},
+      eprint={1910.06727},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
+
 
 #### Multimodal vehicle detection: fusing 3D-LIDAR and color camera data [`UNREAD`]
 
