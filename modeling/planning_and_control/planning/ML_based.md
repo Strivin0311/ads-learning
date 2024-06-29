@@ -8,6 +8,26 @@ Intros:
 
 ---
 
+
+#### Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization
+
+paper link: [here](https://arxiv.org/pdf/2202.10341)
+
+citation:
+
+```bibtex
+@misc{li2022efficient,
+      title={Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization}, 
+      author={Quanyi Li and Zhenghao Peng and Bolei Zhou},
+      year={2022},
+      eprint={2202.10341},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
+}
+```
+
+
+
 #### End-to-end interactive prediction and planning with optical flow distillation for autonomous driving
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021W/Precognition/papers/Wang_End-to-End_Interactive_Prediction_and_Planning_With_Optical_Flow_Distillation_for_CVPRW_2021_paper.pdf)
@@ -20,6 +40,47 @@ citation:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={2229--2238},
   year={2021}
+}
+```
+
+
+#### Safe Driving via Expert Guided Policy Optimization (EGPO)
+
+
+paper link: [here](https://arxiv.org/pdf/2110.06831)
+
+citation:
+
+```bibtex
+@misc{peng2021safe,
+      title={Safe Driving via Expert Guided Policy Optimization}, 
+      author={Zhenghao Peng and Quanyi Li and Chunxiao Liu and Bolei Zhou},
+      year={2021},
+      eprint={2110.06831},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.AI' full_name='Artificial Intelligence' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas. In particular, includes Expert Systems, Theorem Proving (although this may overlap with Logic in Computer Science), Knowledge Representation, Planning, and Uncertainty in AI. Roughly includes material in ACM Subject Classes I.2.0, I.2.1, I.2.3, I.2.4, I.2.8, and I.2.11.'}
+}
+```
+
+#### PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks
+
+paper link: [here](https://arxiv.org/pdf/2109.04869)
+
+citation:
+
+```bibtex
+@article{Sun_2022,
+   title={PlaTe: Visually-Grounded Planning With Transformers in Procedural Tasks},
+   volume={7},
+   ISSN={2377-3774},
+   url={http://dx.doi.org/10.1109/LRA.2022.3150855},
+   DOI={10.1109/lra.2022.3150855},
+   number={2},
+   journal={IEEE Robotics and Automation Letters},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Sun, Jiankai and Huang, De-An and Lu, Bo and Liu, Yun-Hui and Zhou, Bolei and Garg, Animesh},
+   year={2022},
+   month=apr, pages={4924–4930} 
 }
 ```
 

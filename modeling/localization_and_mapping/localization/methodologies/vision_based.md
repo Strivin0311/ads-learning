@@ -23,6 +23,27 @@ citation:
 ### Camera-based Navigation
 
 
+#### CamNet: Coarse-to-Fine Retrieval for Camera Re-Localization
+
+paper link: [here](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{Ding2019CamNet,
+  author={Ding, Mingyu and Wang, Zhe and Sun, Jiankai and Shi, Jianping and Luo, Ping},
+  booktitle={2019 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  title={CamNet: Coarse-to-Fine Retrieval for Camera Re-Localization}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={2871-2880},
+  keywords={Cameras;Three-dimensional displays;Solid modeling;Task analysis;Predictive models;Training;Artificial neural networks},
+  doi={10.1109/ICCV.2019.00296}
+}
+```
+
+
 #### Integrating algorithmic planning and deep learning for partially observable navigation
 
 paper link: [here](https://arxiv.org/pdf/1807.06696)

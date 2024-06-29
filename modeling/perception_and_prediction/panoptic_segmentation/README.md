@@ -168,6 +168,29 @@ citation:
 }
 ```
 
+
+#### Cross-view semantic segmentation for sensing surroundings
+
+paper link: [here](https://arxiv.org/pdf/1906.03560)
+
+citation:
+
+```bibtex
+@article{Pan_2020,
+   title={Cross-View Semantic Segmentation for Sensing Surroundings},
+   volume={5},
+   ISSN={2377-3774},
+   url={http://dx.doi.org/10.1109/LRA.2020.3004325},
+   DOI={10.1109/lra.2020.3004325},
+   number={3},
+   journal={IEEE Robotics and Automation Letters},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Pan, Bowen and Sun, Jiankai and Leung, Ho Yin Tiga and Andonian, Alex and Zhou, Bolei},
+   year={2020},
+   month=jul, pages={4867–4873} 
+}
+```
+
 #### Pointnet: Deep learning on point sets for 3d classification and segmentation
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)

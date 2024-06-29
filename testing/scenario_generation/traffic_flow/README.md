@@ -60,6 +60,23 @@ citation:
 }
 ```
 
+#### Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization (CoPO)
+
+paper link: [here](https://arxiv.org/pdf/2110.13827)
+
+citation:
+
+```bibtex
+@misc{peng2022learning,
+      title={Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization}, 
+      author={Zhenghao Peng and Quanyi Li and Ka Ming Hui and Chunxiao Liu and Bolei Zhou},
+      year={2022},
+      eprint={2110.13827},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
+}
+```
+
 #### An overview of microscopic and macroscopic traffic models
 
 paper link: [here](https://fse.studenttheses.ub.rug.nl/11050/1/Bachelorproject.pdf)
