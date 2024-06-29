@@ -10,7 +10,7 @@ Intros:
 
 ---
 
-#### DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation [`READ`]
+#### DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation
 
 paper link: [here](https://arxiv.org/pdf/2403.06845)
 
@@ -27,7 +27,7 @@ citation:
 }
 ```
 
-#### GAIA-1: A Generative World Model for Autonomous Driving [`READ`]
+#### GAIA-1: A Generative World Model for Autonomous Driving
 
 paper link: [here](https://arxiv.org/pdf/2309.17080)
 
@@ -44,7 +44,7 @@ citation:
 }
 ```
 
-#### Scenegen: Learning to generate realistic traffic scenes [`READ`]
+#### Scenegen: Learning to generate realistic traffic scenes
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_SceneGen_Learning_To_Generate_Realistic_Traffic_Scenes_CVPR_2021_paper.pdf)
 
@@ -60,7 +60,7 @@ citation:
 }
 ```
 
-#### An overview of microscopic and macroscopic traffic models [`READ`]
+#### An overview of microscopic and macroscopic traffic models
 
 paper link: [here](https://fse.studenttheses.ub.rug.nl/11050/1/Bachelorproject.pdf)
 
@@ -75,7 +75,7 @@ citation:
 }
 ```
 
-#### Microscopic modeling of traffic flow: Investigation of collision free vehicle dynamics [`READ`]
+#### Microscopic modeling of traffic flow: Investigation of collision free vehicle dynamics
 
 paper link: [here](https://www.osti.gov/etdeweb/biblio/627062)
 
@@ -89,6 +89,6 @@ citation:
 }
 ```
 
-#### Fundamentals of traffic simulation [`READ`]
+#### Fundamentals of traffic simulation
 
 book link: [here](https://pan.baidu.com/s/1EN5NR-mJgfQABQQ3rPLjiQ), with extraction code: `zr11`

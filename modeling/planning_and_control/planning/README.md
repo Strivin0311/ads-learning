@@ -13,7 +13,7 @@ Intros:
 ---
 
 
-#### An investigation of model-free planning [`UNREAD`]
+#### An investigation of model-free planning
 
 paper link: [here](http://proceedings.mlr.press/v97/guez19a/guez19a.pdf)
 
@@ -31,7 +31,7 @@ citation:
     
 
 
-#### A review of motion planning techniques for automated vehicles [`READ`]
+#### A review of motion planning techniques for automated vehicles
 
 paper link: [here](https://www.researchgate.net/profile/Fawzi-Nashashibi/publication/284766879_A_Review_of_Motion_Planning_Techniques_for_Automated_Vehicles/links/565c22ac08aefe619b251d23/A-Review-of-Motion-Planning-Techniques-for-Automated-Vehicles.pdf)
 
@@ -50,7 +50,7 @@ citation:
 ```
 
 
-#### Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [`UNREAD`]
+#### Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S0968090X15003447)
 

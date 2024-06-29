@@ -12,7 +12,7 @@ Intros:
 
 ### Panoptic Segmentation
 
-#### Remax: Relaxing for better training on efficient panoptic segmentation [`UNREAD`]
+#### Remax: Relaxing for better training on efficient panoptic segmentation
 
 paper link: [here](https://arxiv.org/pdf/2306.17319)
 
@@ -26,7 +26,7 @@ citation:
 }
 ```
 
-#### Segment everything everywhere all at once (SEEM) [`UNREAD`]
+#### Segment everything everywhere all at once (SEEM)
 
 paper link: [here](https://arxiv.org/pdf/2304.06718.pdf)
 
@@ -40,7 +40,7 @@ citation:
 }
 ```
 
-#### 4D Panoptic Scene Graph Generation (PSG-4D) ['UNREAD']
+#### 4D Panoptic Scene Graph Generation (PSG-4D)
 
 paper link: [here](https://openreview.net/pdf?id=GRHZiTbDDI)
 
@@ -56,7 +56,7 @@ citation:
 ```
 
 
-#### Panoptic scene graph generation (PSG) [`UNREAD`]
+#### Panoptic scene graph generation (PSG)
 
 paper link: [here](https://arxiv.org/pdf/2207.11247)
 
@@ -72,7 +72,7 @@ citation:
 }
 ```
 
-#### Panoptic segformer: Delving deeper into panoptic segmentation with transformers [`UNREAD`]
+#### Panoptic segformer: Delving deeper into panoptic segmentation with transformers
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)
 
@@ -87,7 +87,7 @@ citation:
 }
 ```
 
-#### Upsnet: A unified panoptic segmentation network [`UNREAD`]
+#### Upsnet: A unified panoptic segmentation network
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_UPSNet_A_Unified_Panoptic_Segmentation_Network_CVPR_2019_paper.pdf)
 
@@ -102,7 +102,7 @@ citation:
 }
 ```
 
-#### Panoptic segmentation [`UNREAD`]
+#### Panoptic segmentation
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
 
@@ -121,7 +121,7 @@ citation:
 ### Semantic Segmentation
 
 
-#### Segment Any Point Cloud Sequences by Distilling Vision Foundation Models [`UNREAD`]
+#### Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 
 paper link: [here](https://arxiv.org/pdf/2306.09347)
 
@@ -137,7 +137,7 @@ citation:
     
 
 
-#### Masked-attention mask transformer for universal image segmentation [`UNREAD`]
+#### Masked-attention mask transformer for universal image segmentation
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf)
 
@@ -152,7 +152,7 @@ citation:
 }
 ```
 
-#### Per-pixel classification is not all you need for semantic segmentation [`UNREAD`]
+#### Per-pixel classification is not all you need for semantic segmentation
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf)
 
@@ -168,7 +168,7 @@ citation:
 }
 ```
 
-#### Pointnet: Deep learning on point sets for 3d classification and segmentation [`UNREAD`]
+#### Pointnet: Deep learning on point sets for 3d classification and segmentation
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)
 
@@ -186,7 +186,7 @@ citation:
 
 ### Instance Segmentation
 
-#### Break-A-Scene: Extracting Multiple Concepts from a Single Image [`UNREAD`]
+#### Break-A-Scene: Extracting Multiple Concepts from a Single Image
 
 paper link: [here](https://arxiv.org/pdf/2305.16311)
 
@@ -201,7 +201,7 @@ citation:
 ```
 
 
-#### High Quality Entity Segmentation [`UNREAD`]
+#### High Quality Entity Segmentation
 
 paper link: [here](http://openaccess.thecvf.com/content/ICCV2023/html/Qi_High_Quality_Entity_Segmentation_ICCV_2023_paper.html)
 

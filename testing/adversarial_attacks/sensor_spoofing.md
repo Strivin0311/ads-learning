@@ -8,7 +8,7 @@ Intros:
 ---
 
 
-#### Towards robust {LiDAR-based} perception in autonomous driving: General black-box adversarial sensor attack and countermeasures [`READ`]
+#### Towards robust {LiDAR-based} perception in autonomous driving: General black-box adversarial sensor attack and countermeasures
 
 paper link: [here](https://www.usenix.org/system/files/sec20-sun.pdf)
 
@@ -24,7 +24,7 @@ citation:
 ```
     
 
-#### Adversarial sensor attack on lidar-based perception in autonomous driving [`READ`]
+#### Adversarial sensor attack on lidar-based perception in autonomous driving
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3319535.3339815)
 
@@ -39,7 +39,7 @@ citation:
 }
 ```
 
-#### MobilBye: attacking ADAS with camera spoofing [`READ`]
+#### MobilBye: attacking ADAS with camera spoofing
 
 paper link: [here](https://arxiv.org/pdf/1906.09765.pdf?utm_source=rss&utm_medium=rss)
 
@@ -55,7 +55,7 @@ citation:
     
     
 
-#### Can you trust autonomous vehicles: Contactless attacks against sensors of self-driving vehicle [`READ`]
+#### Can you trust autonomous vehicles: Contactless attacks against sensors of self-driving vehicle
 
 paper link: [here](https://cyansec.com/files/articles/16DEFCON-Sensor.pdf)
 

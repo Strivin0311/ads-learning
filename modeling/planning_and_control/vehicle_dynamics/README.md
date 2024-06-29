@@ -9,5 +9,5 @@ Intros:
 ---
 
 
-#### Vehicle Dynamics and Control [`READ`]
+#### Vehicle Dynamics and Control
 book link: [here](https://pan.baidu.com/s/1U3O-vhZM6L06QyXXdeWFmw), with extraction code: `x9xx`

@@ -22,5 +22,5 @@ Intros:
 ---
 
 
-#### 自动驾驶汽车环境感知 [`READ`]
+#### 自动驾驶汽车环境感知
 book link: [here](https://pan.baidu.com/s/1Y9AmpSVVsNB6H5IKwfV9MQ), with extraction code: `6npj`

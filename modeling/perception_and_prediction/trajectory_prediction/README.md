@@ -13,7 +13,7 @@ Intros:
 
 ---
 
-#### ViP3D: End-to-end visual trajectory prediction via 3d agent queries [`UNREAD`]
+#### ViP3D: End-to-end visual trajectory prediction via 3d agent queries
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf)
 
@@ -30,7 +30,7 @@ citation:
     
 
 
-#### SGCN: Sparse graph convolution network for pedestrian trajectory prediction [`UNREAD`]
+#### SGCN: Sparse graph convolution network for pedestrian trajectory prediction
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)
 
@@ -46,7 +46,7 @@ citation:
 ```
     
 
-#### Shared cross-modal trajectory prediction for autonomous driving [`READ`]
+#### Shared cross-modal trajectory prediction for autonomous driving
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)
 
@@ -62,7 +62,7 @@ citation:
 ```
     
 
-#### Divide-and-conquer for lane-aware diverse trajectory prediction [`UNREAD`]
+#### Divide-and-conquer for lane-aware diverse trajectory prediction
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Narayanan_Divide-and-Conquer_for_Lane-Aware_Diverse_Trajectory_Prediction_CVPR_2021_paper.pdf)
 
@@ -77,7 +77,7 @@ citation:
 }
 ```
 
-#### Pedestrian and ego-vehicle trajectory prediction from monocular camera [`UNREAD`]
+#### Pedestrian and ego-vehicle trajectory prediction from monocular camera
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Neumann_Pedestrian_and_Ego-Vehicle_Trajectory_Prediction_From_Monocular_Camera_CVPR_2021_paper.pdf)
 
@@ -92,7 +92,7 @@ citation:
 }
 ```
 
-#### Safe local motion planning with self-supervised freespace forecasting [`UNREAD`]
+#### Safe local motion planning with self-supervised freespace forecasting
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Safe_Local_Motion_Planning_With_Self-Supervised_Freespace_Forecasting_CVPR_2021_paper.pdf)
 
@@ -107,7 +107,7 @@ citation:
 }
 ```
 
-#### Lookout: Diverse multi-future prediction and planning for self-driving [`READ`]
+#### Lookout: Diverse multi-future prediction and planning for self-driving
 
 paper link: [here](http://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf)
 
@@ -122,7 +122,7 @@ citation:
 }
 ```
     
-#### Pnpnet: End-to-end perception and prediction with tracking in the loop [`READ`]
+#### Pnpnet: End-to-end perception and prediction with tracking in the loop
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PnPNet_End-to-End_Perception_and_Prediction_With_Tracking_in_the_Loop_CVPR_2020_paper.pdf)
 
@@ -139,7 +139,7 @@ citation:
     
     
     
-#### Motion estimation for self-driving cars with a generalized camera [`UNREAD`]
+#### Motion estimation for self-driving cars with a generalized camera
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2013/papers/Lee_Motion_Estimation_for_2013_CVPR_paper.pdf)
 

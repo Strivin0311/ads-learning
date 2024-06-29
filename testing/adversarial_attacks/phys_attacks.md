@@ -8,7 +8,7 @@ Intros:
 ---
 
 
-#### Physically Realizable Targeted Adversarial Attacks on Autonomous Driving [`READ`]
+#### Physically Realizable Targeted Adversarial Attacks on Autonomous Driving
 
 paper link: [here](https://keep.lib.asu.edu/_flysystem/fedora/c7/Buddareddygari_asu_0010N_20802.pdf)
 
@@ -22,7 +22,7 @@ citation:
 }
 ```
 
-#### Dirty road can attack: Security of deep learning based automated lane centering under {Physical-World} attack [`READ`]
+#### Dirty road can attack: Security of deep learning based automated lane centering under {Physical-World} attack
 
 paper link: [here](https://www.usenix.org/system/files/sec21-sato.pdf)
 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Invisible for both camera and lidar: Security of multi-sensor fusion based perception in autonomous driving under physical-world attacks [`READ`]
+#### Invisible for both camera and lidar: Security of multi-sensor fusion based perception in autonomous driving under physical-world attacks
 
 paper link: [here](https://arxiv.org/pdf/2106.09249)
 
@@ -53,7 +53,7 @@ citation:
 }
 ```
 
-#### Multi-source adversarial sample attack on autonomous vehicles [`UNREAD`]
+#### Multi-source adversarial sample attack on autonomous vehicles
 
 paper link: [here](https://par.nsf.gov/servlets/purl/10230090)
 
@@ -71,7 +71,7 @@ citation:
 }
 ```
     
-#### Physgan: Generating physical-world-resilient adversarial examples for autonomous driving [`READ`]
+#### Physgan: Generating physical-world-resilient adversarial examples for autonomous driving
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kong_PhysGAN_Generating_Physical-World-Resilient_Adversarial_Examples_for_Autonomous_Driving_CVPR_2020_paper.pdf)
 
@@ -88,7 +88,7 @@ citation:
      
     
 
-#### Simple physical adversarial examples against end-to-end autonomous driving models [`UNREAD`]
+#### Simple physical adversarial examples against end-to-end autonomous driving models
 
 paper link: [here](https://arxiv.org/pdf/1903.05157)
 

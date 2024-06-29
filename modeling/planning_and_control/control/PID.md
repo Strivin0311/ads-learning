@@ -8,5 +8,5 @@ Intros:
 ---
 
 
-#### PID Control [`UNREAD`]
+#### PID Control
 book link: [here](https://pan.baidu.com/s/1nseKGYRHxlu2t78dj6wAKw), with extraction code: `3a5s`

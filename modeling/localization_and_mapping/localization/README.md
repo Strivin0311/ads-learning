@@ -35,6 +35,6 @@ Intros:
 
 ---
 
-#### 自动驾驶汽车定位 [`READ`]
+#### 自动驾驶汽车定位
 book link: [here](https://pan.baidu.com/s/1J8qRBuRGOf-PCERzs1xuqw), with extraction code: `a693`
 

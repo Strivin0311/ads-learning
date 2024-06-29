@@ -4,7 +4,7 @@
 
 ### Search-based Testing
 
-#### Many-objective reinforcement learning for online testing of dnn-enabled systems [`READ`]
+#### Many-objective reinforcement learning for online testing of dnn-enabled systems
 
 paper link: [here](https://arxiv.org/pdf/2210.15432)
 
@@ -21,7 +21,7 @@ citation:
 ```
     
 
-#### Targeting patterns of driving characteristics in testing autonomous driving systems [`READ`]
+#### Targeting patterns of driving characteristics in testing autonomous driving systems
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/9438591/)
 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Route coverage testing for autonomous vehicles via map modeling [`READ`]
+#### Route coverage testing for autonomous vehicles via map modeling
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/9560890/)
 
@@ -54,7 +54,7 @@ citation:
 ```
     
 
-#### Achieving weight coverage for an autonomous driving system with search-based test generation [`READ`]
+#### Achieving weight coverage for an autonomous driving system with search-based test generation
 
 paper link: [here](https://www.researchgate.net/profile/Thomas-Laurent-2/publication/350197011_Achieving_Weight_Coverage_for_an_Autonomous_Driving_System_with_Search-based_Test_Generation/links/608681352fb9097c0c0d26ad/Achieving-Weight-Coverage-for-an-Autonomous-Driving-System-with-Search-based-Test-Generation.pdf)
 
@@ -73,7 +73,7 @@ citation:
 
 ### Metamorphic Testing
 
-#### DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems [`READ`]
+#### DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3238147.3238187)
 
@@ -90,7 +90,7 @@ citation:
 
 ### Combinatorial Testing
 
-#### Leveraging combinatorial testing for safety-critical computer vision datasets [`READ`]
+#### Leveraging combinatorial testing for safety-critical computer vision datasets
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Gladisch_Leveraging_Combinatorial_Testing_for_Safety-Critical_Computer_Vision_Datasets_CVPRW_2020_paper.pdf)
 
@@ -108,7 +108,7 @@ citation:
 
 ### Stress Testing
 
-#### Adaptive stress testing for autonomous vehicles [`READ`]
+#### Adaptive stress testing for autonomous vehicles
 
 paper link: [here](https://arxiv.org/pdf/1902.01909)
 
@@ -127,7 +127,7 @@ citation:
 
 ### Neuron Coverage
 
-#### Deeptest: Automated testing of deep-neural-network-driven autonomous cars [`READ`]
+#### Deeptest: Automated testing of deep-neural-network-driven autonomous cars
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)
 
@@ -146,7 +146,7 @@ citation:
 ### Hardware-in-the-Loop
 
 
-#### A vehicle-in-the-loop methodology for evaluating automated driving functions in virtual traffic [`READ`]
+#### A vehicle-in-the-loop methodology for evaluating automated driving functions in virtual traffic
 
 paper link: [here](https://www.researchgate.net/profile/S-Solmaz/publication/345974502_A_Vehicle-in-the-Loop_Methodology_for_Evaluating_Automated_Driving_Functions_in_Virtual_Traffic/links/60796fe38ea909241e028ce7/A-Vehicle-in-the-Loop-Methodology-for-Evaluating-Automated-Driving-Functions-in-Virtual-Traffic.pdf)
 
@@ -163,7 +163,7 @@ citation:
 ```
     
 
-#### Hardware-in-the-loop autonomous driving simulation without real-time constraints [`READ`]
+#### Hardware-in-the-loop autonomous driving simulation without real-time constraints
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/8723564/)
 
@@ -184,7 +184,7 @@ citation:
 ### Empirical Study
 
 
-#### Testing of autonomous driving systems: where are we and where should we go? [`READ`]
+#### Testing of autonomous driving systems: where are we and where should we go?
 
 paper link: [here](https://arxiv.org/pdf/2106.12233)
 
@@ -200,7 +200,7 @@ citation:
 ```
     
 
-#### Automated vehicle crash sequences: Patterns and potential uses in safety testing [`READ`]
+#### Automated vehicle crash sequences: Patterns and potential uses in safety testing
 
 paper link: [here](https://arxiv.org/pdf/2102.06286)
 
@@ -217,7 +217,7 @@ citation:
 }
 ```
 
-#### A comprehensive study of autonomous vehicle bugs [`READ`]
+#### A comprehensive study of autonomous vehicle bugs
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3377811.3380397)
 
@@ -232,7 +232,7 @@ citation:
 }
 ``` 
 
-#### A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo [`READ`]
+#### A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo
 
 paper link: [here](https://jinqiuyang.github.io/papers/fse20.pdf)
 

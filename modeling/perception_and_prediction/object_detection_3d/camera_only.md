@@ -14,7 +14,7 @@ Intros:
 ### Monocular Camera 3D Objection Detection
 
 
-#### Depth-discriminative Metric Learning for Monocular 3D Object Detection ['UNREAD']
+#### Depth-discriminative Metric Learning for Monocular 3D Object Detection
 
 paper link: [here](https://openreview.net/attachment?id=ZNBblMEP16&name=pdf)
 
@@ -29,7 +29,7 @@ citation:
 ```
 
 
-#### Probabilistic and geometric depth: Detecting objects in perspective [`UNREAD`]
+#### Probabilistic and geometric depth: Detecting objects in perspective
 
 paper link: [here](https://proceedings.mlr.press/v164/wang22i/wang22i.pdf)
 
@@ -46,7 +46,7 @@ citation:
 ```
     
 
-#### Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation [`UNREAD`]
+#### Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)
 
@@ -63,7 +63,7 @@ citation:
     
 
 
-#### Fcos3d: Fully convolutional one-stage monocular 3d object detection [`READ`]
+#### Fcos3d: Fully convolutional one-stage monocular 3d object detection
 
 paper link: [here](https://openaccess.thecvf.com/content/ICCV2021W/3DODI/papers/Wang_FCOS3D_Fully_Convolutional_One-Stage_Monocular_3D_Object_Detection_ICCVW_2021_paper.pdf)
 
@@ -79,7 +79,7 @@ citation:
 ```
     
 
-#### Smoke: Single-stage monocular 3d object detection via keypoint estimation [`READ`]
+#### Smoke: Single-stage monocular 3d object detection via keypoint estimation
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w60/Liu_SMOKE_Single-Stage_Monocular_3D_Object_Detection_via_Keypoint_Estimation_CVPRW_2020_paper.pdf)
 
@@ -95,7 +95,7 @@ citation:
 ```
     
 
-#### Disentangling monocular 3d object detection [`UNREAD`]
+#### Disentangling monocular 3d object detection
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.pdf)
 
@@ -112,7 +112,7 @@ citation:
 
 ### Stereo/RGBD Camera 3D Objection Detection
 
-#### 2d-driven 3d object detection in rgb-d images [`UNREAD`]
+#### 2d-driven 3d object detection in rgb-d images
 
 paper link: [here](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lahoud_2D-Driven_3D_Object_ICCV_2017_paper.pdf)
 
@@ -128,7 +128,7 @@ citation:
 ```
     
 
-#### Holistic scene understanding for 3d object detection with rgbd cameras [`UNREAD`]
+#### Holistic scene understanding for 3d object detection with rgbd cameras
 
 paper link: [here](http://openaccess.thecvf.com/content_iccv_2013/papers/Lin_Holistic_Scene_Understanding_2013_ICCV_paper.pdf)
 
@@ -146,7 +146,7 @@ citation:
 ### Multi-view Camera 3D Objection Detection
 
 
-#### Leveraging vision-centric multi-modal expertise for 3d object detection [`UNREAD`]
+#### Leveraging vision-centric multi-modal expertise for 3d object detection
 
 paper link: [here](https://arxiv.org/pdf/2310.15670)
 
@@ -162,7 +162,7 @@ citation:
     
 
 
-#### Time will tell: New outlooks and a baseline for temporal multi-view 3d object detection [`UNREAD`]
+#### Time will tell: New outlooks and a baseline for temporal multi-view 3d object detection
 
 paper link: [here](https://arxiv.org/pdf/2210.02443)
 
@@ -177,7 +177,7 @@ citation:
 ```
     
 
-#### Multi-view 3d object detection network for autonomous driving [`UNREAD`]
+#### Multi-view 3d object detection network for autonomous driving
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)
 

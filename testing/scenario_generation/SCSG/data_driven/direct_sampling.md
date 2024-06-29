@@ -9,7 +9,7 @@ Intros:
 
 ### Replay
 
-#### Generating effective test cases for self-driving cars from police reports [`UNREAD`]
+#### Generating effective test cases for self-driving cars from police reports
 
 paper link: [here](https://www.researchgate.net/profile/Alessio-Gambi/publication/335092283_Generating_effective_test_cases_for_self-driving_cars_from_police_reports/links/5d6d03a6a6fdcc547d726e2c/Generating-effective-test-cases-for-self-driving-cars-from-police-reports.pdf)
 
@@ -24,7 +24,7 @@ citation:
 }
 ```
 
-#### A risk-index based sampling method to generate scenarios for the evaluation of automated driving vehicle safety [`READ`]
+#### A risk-index based sampling method to generate scenarios for the evaluation of automated driving vehicle safety
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/8917311/)
 
@@ -42,7 +42,7 @@ citation:
     
     
 
-#### An accelerated approach to safely and efficiently test pre-production autonomous vehicles on public streets [`UNREAD`]
+#### An accelerated approach to safely and efficiently test pre-production autonomous vehicles on public streets
 
 paper link: [here](https://arxiv.org/pdf/1805.02114)
 
@@ -62,7 +62,7 @@ citation:
 
 ### Random Perturbation
 
-#### Geosim: Realistic video simulation via geometry-aware composition for self-driving [`READ`]
+#### Geosim: Realistic video simulation via geometry-aware composition for self-driving
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.pdf)
 
@@ -78,7 +78,7 @@ citation:
 ```
 
 
-#### Waymo simulated driving behavior in reconstructed fatal crashes within an autonomous vehicle operating domain [`UNREAD`]
+#### Waymo simulated driving behavior in reconstructed fatal crashes within an autonomous vehicle operating domain
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S0001457521004851)
 
@@ -96,7 +96,7 @@ citation:
 ```
     
 
-#### Lidarsim: Realistic lidar simulation by leveraging the real world [`READ`]
+#### Lidarsim: Realistic lidar simulation by leveraging the real world
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Manivasagam_LiDARsim_Realistic_LiDAR_Simulation_by_Leveraging_the_Real_World_CVPR_2020_paper.pdf)
 
@@ -111,7 +111,7 @@ citation:
 }
 ```
     
-#### Augmented LiDAR simulator for autonomous driving [`UNREAD`]
+#### Augmented LiDAR simulator for autonomous driving
 
 paper link: [here](https://arxiv.org/pdf/1811.07112)
 
@@ -132,7 +132,7 @@ citation:
 
 ### Clustering
 
-#### Scenario-based test reduction and prioritization for multi-module autonomous driving systems [`UNREAD`]
+#### Scenario-based test reduction and prioritization for multi-module autonomous driving systems
 
 paper link: [here](https://arxiv.org/pdf/2209.01546)
 
@@ -148,7 +148,7 @@ citation:
 ```
     
 
-#### Extracting traffic primitives directly from naturalistically logged data for self-driving applications [`UNREAD`]
+#### Extracting traffic primitives directly from naturalistically logged data for self-driving applications
 
 paper link: [here](https://arxiv.org/pdf/1709.03553)
 
@@ -168,7 +168,7 @@ citation:
 
 ### Evolutionary
 
-#### Generating critical test scenarios for automated vehicles with evolutionary algorithms [`READ`]
+#### Generating critical test scenarios for automated vehicles with evolutionary algorithms
 
 paper link: [here](https://mediatum.ub.tum.de/doc/1486852/document.pdf)
 
@@ -184,7 +184,7 @@ citation:
 }
 ```
     
-#### Testing vision-based control systems using learnable evolutionary algorithms [`READ`]
+#### Testing vision-based control systems using learnable evolutionary algorithms
 
 paper link: [here](https://orbilu.uni.lu/bitstream/10993/33706/1/ICSE-Main-24.pdf)
 

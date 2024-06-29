@@ -14,7 +14,7 @@ Intros:
 ---
 
 
-#### Deep learning-based autonomous driving systems: A survey of attacks and defenses [`READ`]
+#### Deep learning-based autonomous driving systems: A survey of attacks and defenses
 
 paper link: [here](https://arxiv.org/pdf/2104.01789)
 

@@ -7,7 +7,7 @@ Intros:
 ---
 
 
-#### Path planning algorithm using D* heuristic method based on PSO in dynamic environment [`UNREAD`]
+#### Path planning algorithm using D* heuristic method based on PSO in dynamic environment
 
 paper link: [here](https://core.ac.uk/download/pdf/235050716.pdf)
 
@@ -25,7 +25,7 @@ citation:
 ```
 
 
-#### Path planning with modified a star algorithm for a mobile robot [`UNREAD`]
+#### Path planning with modified a star algorithm for a mobile robot
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S187770581403149X/pdf?md5=c268e599865d356b71de135a7d8caaa5&pid=1-s2.0-S187770581403149X-main.pdf&_valck=1)
 

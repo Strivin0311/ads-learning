@@ -13,7 +13,7 @@ Intros:
 ### End-to-End Perception and Prediction
 
 
-#### Yolopv2: Better, faster, stronger for panoptic driving perception [`UNREAD`]
+#### Yolopv2: Better, faster, stronger for panoptic driving perception
 
 paper link: [here](https://arxiv.org/pdf/2208.11434.pdf?trk=public_post_comment-text)
 
@@ -28,7 +28,7 @@ citation:
 ```
     
 
-#### Yolop: You only look once for panoptic driving perception [`READ`]
+#### Yolop: You only look once for panoptic driving perception
 
 paper link: [here](https://link.springer.com/content/pdf/10.1007/s11633-022-1339-y.pdf)
 

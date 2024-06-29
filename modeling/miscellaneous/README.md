@@ -8,7 +8,7 @@ Intros:
 
 ### Survey
 
-#### Vision language models in autonomous driving and intelligent transportation systems [`UNREAD`]
+#### Vision language models in autonomous driving and intelligent transportation systems
 
 paper link: [here](https://arxiv.org/pdf/2310.14414)
 
@@ -23,7 +23,7 @@ citation:
 ```
 
 
-#### Deep neural networks and data for automated driving: Robustness, uncertainty quantification, and insights towards safety [`READ`]
+#### Deep neural networks and data for automated driving: Robustness, uncertainty quantification, and insights towards safety
 
 paper link: [here](https://library.oapen.org/bitstream/handle/20.500.12657/57375/1/978-3-031-01233-4.pdf)
 
@@ -37,7 +37,7 @@ citation:
 }
 ```
 
-#### Knowledge augmented machine learning with applications in autonomous driving: A survey [`UNREAD`]
+#### Knowledge augmented machine learning with applications in autonomous driving: A survey
 
 paper link: [here](https://arxiv.org/pdf/2205.04712)
 
@@ -52,7 +52,7 @@ citation:
 ```
     
 
-#### Deep reinforcement learning for autonomous driving: A survey [`UNREAD`]
+#### Deep reinforcement learning for autonomous driving: A survey
 
 paper link: [here](https://arxiv.org/pdf/2002.00444)
 
@@ -71,7 +71,7 @@ citation:
 ```
     
 
-#### A Survey of Autonomous Driving: Common Practices and Emerging Technologies [`READ`]
+#### A Survey of Autonomous Driving: Common Practices and Emerging Technologies
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/6287639/8948470/09046805.pdf)
 

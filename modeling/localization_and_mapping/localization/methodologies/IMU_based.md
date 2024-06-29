@@ -7,7 +7,7 @@ Intros:
 ---
 
 
-#### Inertial navigation system [`READ`]
+#### Inertial navigation system
 
 wiki link: [here](https://en.wikipedia.org/wiki/Inertial_navigation_system)
 

@@ -15,7 +15,7 @@ Intros:
 
 ---
 
-#### Simultaneous localization and mapping: A survey of current trends in autonomous driving [`READ`]
+#### Simultaneous localization and mapping: A survey of current trends in autonomous driving
 
 paper link: [here](https://hal.science/hal-01615897/document)
 

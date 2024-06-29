@@ -8,7 +8,7 @@ Intros:
 
 ### Vehicle-to-Vehicle Network
 
-#### Communication assisted navigation in robotic swarms: self-organization and cooperation [`UNREAD`]
+#### Communication assisted navigation in robotic swarms: self-organization and cooperation
 
 paper link: [here](http://repository.supsi.ch/5153/1/IDSIA-04-11.pdf)
 

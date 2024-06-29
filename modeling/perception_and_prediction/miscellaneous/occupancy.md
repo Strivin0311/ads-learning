@@ -10,7 +10,7 @@ Intros:
 ---
 
 
-#### OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields ['UNREAD']
+#### OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields
 
 paper link: [here](https://arxiv.org/pdf/2312.09243.pdf)
 
@@ -25,7 +25,7 @@ citation:
 ```
 
 
-#### POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images ['UNREAD']
+#### POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images
 
 paper link: [here](https://openreview.net/pdf?id=eBXM62SqKY)
 

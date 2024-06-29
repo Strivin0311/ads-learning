@@ -11,7 +11,7 @@ Intros:
 ---
 
 
-#### HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds [`UNREAD`]
+#### HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds
 
 paper link: [here](https://arxiv.org/pdf/2310.20234)
 
@@ -27,7 +27,7 @@ citation:
     
 
 
-#### Multimodal vehicle detection: fusing 3D-LIDAR and color camera data [`UNREAD`]
+#### Multimodal vehicle detection: fusing 3D-LIDAR and color camera data
 
 paper link: [here](https://www.researchgate.net/profile/Alireza-Asvadi/publication/320089205_Multimodal_vehicle_detection_Fusing_3D-LIDAR_and_color_camera_data/links/5afd4fe4aca272b5d87091c2/Multimodal-vehicle-detection-Fusing-3D-LIDAR-and-color-camera-data.pdf)
 
@@ -45,7 +45,7 @@ citation:
 ```
 
 
-#### 3d fully convolutional network for vehicle detection in point cloud [`READ`]
+#### 3d fully convolutional network for vehicle detection in point cloud
 
 paper link: [here](https://arxiv.org/pdf/1611.08069)
 
@@ -62,7 +62,7 @@ citation:
 ```
     
 
-#### Vehicle detection from 3d lidar using fully convolutional network [`READ`]
+#### Vehicle detection from 3d lidar using fully convolutional network
 
 paper link: [here](https://arxiv.org/pdf/1608.07916)
 

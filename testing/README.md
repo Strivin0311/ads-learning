@@ -23,7 +23,7 @@ Intos:
 ---
 
 
-#### A Survey on Automated Driving System Testing: Landscapes and Trends [`READ`]
+#### A Survey on Automated Driving System Testing: Landscapes and Trends
 
 paper link: [here](https://arxiv.org/pdf/2206.05961)
 

@@ -6,7 +6,7 @@ Intros:
 
 ### Lidar-based Navigation
 
-#### A Survey on Global LiDAR Localization [`UNREAD`]
+#### A Survey on Global LiDAR Localization
 
 paper link: [here](https://arxiv.org/pdf/2302.07433)
 
@@ -23,7 +23,7 @@ citation:
 ### Camera-based Navigation
 
 
-#### Integrating algorithmic planning and deep learning for partially observable navigation [`UNREAD`]
+#### Integrating algorithmic planning and deep learning for partially observable navigation
 
 paper link: [here](https://arxiv.org/pdf/1807.06696)
 
@@ -38,7 +38,7 @@ citation:
 ```
     
 
-#### Image-based camera localization: an overview [`UNREAD`]
+#### Image-based camera localization: an overview
 
 paper link: [here](https://vciba.springeropen.com/articles/10.1186/s42492-018-0008-z)
 

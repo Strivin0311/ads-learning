@@ -7,7 +7,7 @@ Intros:
 
 ---
 
-#### Baidu apollo em motion planner [`READ`]
+#### Baidu apollo em motion planner
 
 paper link: [here](https://arxiv.org/pdf/1807.08048)
 
@@ -22,7 +22,7 @@ citation:
 ```
     
 
-#### Anytime motion planning using the RRT [`READ`]
+#### Anytime motion planning using the RRT
 
 paper link: [here](https://dspace.mit.edu/bitstream/handle/1721.1/63170/Teller_Anytime%20motion.pdf?sequence=1&isAllowed=y)
 
@@ -38,7 +38,7 @@ citation:
 }
 ```
     
-#### Sampling-based algorithms for optimal motion planning [`READ`]
+#### Sampling-based algorithms for optimal motion planning
 
 paper link: [here](https://arxiv.org/pdf/1105.1186)
 

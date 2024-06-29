@@ -8,7 +8,7 @@ Intros:
 
 ---
 
-#### End-to-end interactive prediction and planning with optical flow distillation for autonomous driving [`READ`]
+#### End-to-end interactive prediction and planning with optical flow distillation for autonomous driving
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021W/Precognition/papers/Wang_End-to-End_Interactive_Prediction_and_Planning_With_Optical_Flow_Distillation_for_CVPRW_2021_paper.pdf)
 
@@ -24,7 +24,7 @@ citation:
 ```
 
 
-#### Learning a decision module by imitating driver's control behaviors [`READ`]
+#### Learning a decision module by imitating driver's control behaviors
 
 paper link: [here](https://proceedings.mlr.press/v155/huang21a/huang21a.pdf)
 
@@ -40,7 +40,7 @@ citation:
 }
 ```
 
-#### Combining planning and deep reinforcement learning in tactical decision making for autonomous driving [`UNREAD`]
+#### Combining planning and deep reinforcement learning in tactical decision making for autonomous driving
 
 paper link: [here](https://arxiv.org/pdf/1905.02680)
 
@@ -58,7 +58,7 @@ citation:
 }
 ```
 
-#### Learning latent dynamics for planning from pixels [`UNREAD`]
+#### Learning latent dynamics for planning from pixels
 
 paper link: [here](http://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf)
 
@@ -76,7 +76,7 @@ citation:
     
 
 
-#### End-to-end interpretable neural motion planner [`UNREAD`]
+#### End-to-end interpretable neural motion planner
 
 paper link: [here](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf)
 
@@ -92,7 +92,7 @@ citation:
 ```
 
 
-#### Mpc-inspired neural network policies for sequential decision making [`UNREAD`]
+#### Mpc-inspired neural network policies for sequential decision making
 
 paper link: [here](https://arxiv.org/pdf/1802.05803)
 
@@ -109,7 +109,7 @@ citation:
     
 
     
-#### End-to-end driving via conditional imitation learning [`READ`]
+#### End-to-end driving via conditional imitation learning
 
 paper link: [here](https://arxiv.org/pdf/1710.02410)
 
@@ -126,7 +126,7 @@ citation:
 ```
     
 
-#### From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots [`UNREAD`]
+#### From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots
 
 paper link: [here](https://arxiv.org/pdf/1609.07910)
 
@@ -142,7 +142,7 @@ citation:
 }
 ```
 
-#### Qmdp-net: Deep learning for planning under partial observability [`UNREAD`]
+#### Qmdp-net: Deep learning for planning under partial observability
 
 paper link: [here](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)
 

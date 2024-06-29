@@ -29,7 +29,7 @@ reference link: [here](https://pan.baidu.com/s/1IFR_SuBgH83f-9N37d-UoA), with th
 
 ### Safety Metrics
 
-#### Quality metrics and oracles for autonomous vehicles testing [`READ`]
+#### Quality metrics and oracles for autonomous vehicles testing
 
 paper link: [here](https://tsigalko18.github.io/assets/pdf/2021-Jahangirova-ICST.pdf)
 
@@ -45,7 +45,7 @@ citation:
 }
 ```
 
-#### Model predictive instantaneous safety metric for evaluation of automated driving systems [`READ`]
+#### Model predictive instantaneous safety metric for evaluation of automated driving systems
 
 paper link: [here](https://arxiv.org/pdf/2005.09999)
 
@@ -63,7 +63,7 @@ citation:
 
 ### Modular Metrics
 
-#### Let-3d-ap: Longitudinal error tolerant 3d average precision for camera-only 3d detection [`READ`]
+#### Let-3d-ap: Longitudinal error tolerant 3d average precision for camera-only 3d detection
 
 paper link: [here](https://arxiv.org/pdf/2206.07705)
 

@@ -11,7 +11,7 @@ Intros:
 ### Collision Avoidance
 
 
-#### Collision avoidance testing for autonomous driving systems on complete maps [`READ`]
+#### Collision avoidance testing for autonomous driving systems on complete maps
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/9575536/)
 
@@ -27,7 +27,7 @@ citation:
 }
 ```
 
-#### Generating avoidable collision scenarios for testing autonomous driving systems [`READ`]
+#### Generating avoidable collision scenarios for testing autonomous driving systems
 
 paper link: [here](https://group-mmm.org/~arcaini/papers/avoidCollICST2020_prePrint.pdf)
 
@@ -45,7 +45,7 @@ citation:
     
     
 
-#### Automatic generation of safety-critical test scenarios for collision avoidance of road vehicles [`READ`]
+#### Automatic generation of safety-critical test scenarios for collision avoidance of road vehicles
 
 paper link: [here](https://mediatum.ub.tum.de/doc/1454478/document.pdf)
 
@@ -63,7 +63,7 @@ citation:
 
 ### Adversarial Generation
 
-#### Advsim: Generating safety-critical scenarios for self-driving vehicles [`READ`]
+#### Advsim: Generating safety-critical scenarios for self-driving vehicles
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Wang_AdvSim_Generating_Safety-Critical_Scenarios_for_Self-Driving_Vehicles_CVPR_2021_paper.pdf)
 
@@ -82,7 +82,7 @@ citation:
 ### Knowledge-based Methods
 
 
-#### Building safer autonomous agents by leveraging risky driving behavior knowledge [`UNREAD`]
+#### Building safer autonomous agents by leveraging risky driving behavior knowledge
 
 paper link: [here](https://arxiv.org/pdf/2103.10245)
 
@@ -98,7 +98,7 @@ citation:
 }
 ```
 
-#### Formal scenario-based testing of autonomous vehicles: From simulation to the real world [`READ`]
+#### Formal scenario-based testing of autonomous vehicles: From simulation to the real world
 
 paper link: [here](https://arxiv.org/pdf/2003.07739)
 
@@ -116,7 +116,7 @@ citation:
     
     
 
-#### Ontology based scene creation for the development of automated vehicles [`UNREAD`]
+#### Ontology based scene creation for the development of automated vehicles
 
 paper link: [here](https://arxiv.org/pdf/1704.01006)
 

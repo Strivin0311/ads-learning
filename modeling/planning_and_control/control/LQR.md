@@ -11,7 +11,7 @@ Intros:
 ---
 
 
-#### The power of linear controllers in LQR control [`UNREAD`]
+#### The power of linear controllers in LQR control
 
 paper link: [here](https://arxiv.org/pdf/2002.02574)
 
@@ -28,7 +28,7 @@ citation:
 ```
 
 
-#### Data-driven LQR control design [`UNREAD`]
+#### Data-driven LQR control design
 
 paper link: [here](https://arxiv.org/pdf/1807.03263)
 

@@ -8,7 +8,7 @@ Intros:
 
 ---
 
-#### Universal Transverse Mercator coordinate system [`READ`]
+#### Universal Transverse Mercator coordinate system
 
 wiki link: [here](https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system)
     

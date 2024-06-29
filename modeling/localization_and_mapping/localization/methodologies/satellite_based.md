@@ -8,7 +8,7 @@ Intros:
 
 ### GNSS
 
-#### Satellite navigation [`READ`]
+#### Satellite navigation
 wiki link: [here](https://en.wikipedia.org/wiki/Satellite_navigation)
     
 
@@ -16,7 +16,7 @@ wiki link: [here](https://en.wikipedia.org/wiki/Satellite_navigation)
 ### RTK
 
 
-#### Real-time kinematic positioning [`READ`]
+#### Real-time kinematic positioning
 
 wiki link: [here](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)
     

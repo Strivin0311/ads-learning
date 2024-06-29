@@ -9,7 +9,7 @@ Intros:
 
 ### Bayesian Networks
 
-#### Critical factor graph situation clusters for accelerated automotive safety validation [`UNREAD`]
+#### Critical factor graph situation clusters for accelerated automotive safety validation
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/8813845/)
 
@@ -25,7 +25,7 @@ citation:
 }
 ```
 
-#### Modeling multi-vehicle interaction scenarios using gaussian random field [`UNREAD`]
+#### Modeling multi-vehicle interaction scenarios using gaussian random field
 
 paper link: [here](https://arxiv.org/pdf/1906.10307)
 
@@ -41,7 +41,7 @@ citation:
 }
 ```
 
-#### Real-time prediction of intermediate-horizon automotive collision risk [`UNREAD`]
+#### Real-time prediction of intermediate-horizon automotive collision risk
 
 paper link: [here](https://arxiv.org/pdf/1802.01532)
 
@@ -57,7 +57,7 @@ citation:
     
 
 
-#### Factor graph scene distributions for automotive safety analysis [`UNREAD`]
+#### Factor graph scene distributions for automotive safety analysis
 
 paper link: [here](http://timallanwheeler.com/data/papers/wheeler2016factorgraph.pdf)
 
@@ -73,7 +73,7 @@ citation:
 }
 ```
 
-#### Initial scene configurations for highway traffic propagation [`UNREAD`]
+#### Initial scene configurations for highway traffic propagation
 
 paper link: [here](http://timallanwheeler.com/data/papers/wheeler2015initial.pdf)
 
@@ -91,7 +91,7 @@ citation:
 
 ### Deep Generative Models
 
-#### Self-supervised real-to-sim scene generation [`UNREAD`]
+#### Self-supervised real-to-sim scene generation
 
 paper link: [here](http://openaccess.thecvf.com/content/ICCV2021/papers/Prakash_Self-Supervised_Real-to-Sim_Scene_Generation_ICCV_2021_paper.pdf)
 
@@ -106,7 +106,7 @@ citation:
 }
 ```
 
-#### Surfelgan: Synthesizing realistic sensor data for autonomous driving [`UNREAD`]
+#### Surfelgan: Synthesizing realistic sensor data for autonomous driving
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_SurfelGAN_Synthesizing_Realistic_Sensor_Data_for_Autonomous_Driving_CVPR_2020_paper.pdf)
 
@@ -123,7 +123,7 @@ citation:
     
     
 
-#### Cmts: A conditional multiple trajectory synthesizer for generating safety-critical driving scenarios [`UNREAD`]
+#### Cmts: A conditional multiple trajectory synthesizer for generating safety-critical driving scenarios
 
 paper link: [here](https://arxiv.org/pdf/1910.00099)
 
@@ -139,7 +139,7 @@ citation:
 }
 ```
 
-#### A scenario generation pipeline for autonomous vehicle simulators [`UNREAD`]
+#### A scenario generation pipeline for autonomous vehicle simulators
 
 paper link: [here](https://hcis-journal.springeropen.com/articles/10.1186/s13673-020-00231-z)
 
@@ -157,7 +157,7 @@ citation:
 }
 ```
 
-#### RELATE: Physically plausible multi-object scene synthesis using structured latent spaces [`UNREAD`]
+#### RELATE: Physically plausible multi-object scene synthesis using structured latent spaces
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/806beafe154032a5b818e97b4420ad98-Paper.pdf)
 
@@ -175,7 +175,7 @@ citation:
     
     
 
-#### Meta-sim2: Unsupervised learning of scene structure for synthetic data generation [`UNREAD`]
+#### Meta-sim2: Unsupervised learning of scene structure for synthetic data generation
 
 paper link: [here](https://arxiv.org/pdf/2008.09092)
 
@@ -192,7 +192,7 @@ citation:
 ```
     
 
-#### Meta-sim: Learning to generate synthetic datasets [`UNREAD`]
+#### Meta-sim: Learning to generate synthetic datasets
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kar_Meta-Sim_Learning_to_Generate_Synthetic_Datasets_ICCV_2019_paper.pdf)
 
@@ -209,7 +209,7 @@ citation:
      
 
 
-#### A new multi-vehicle trajectory generator to simulate vehicle-to-vehicle encounters [`UNREAD`]
+#### A new multi-vehicle trajectory generator to simulate vehicle-to-vehicle encounters
 
 paper link: [here](https://arxiv.org/pdf/1809.05680)
 

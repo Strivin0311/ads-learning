@@ -8,7 +8,7 @@ Intros:
 ---
 
 
-#### Review on model predictive control: An engineering perspective [`UNREAD`]
+#### Review on model predictive control: An engineering perspective
 
 paper link: [here](https://link.springer.com/article/10.1007/s00170-021-07682-3)
 
@@ -26,7 +26,7 @@ citation:
 }
 ```
 
-#### Model predictive control [`UNREAD`]
+#### Model predictive control
 
 paper link: [here](https://www.researchgate.net/profile/Mohamed-Hamdy-41/post/How_to_guarantee_stability_of_an_uncertain_LTI_systme_using_MPC/attachment/59d626b279197b8077984f75/AS%3A322910122643457%401453999181222/download/3319248510.pdf)
 
@@ -44,7 +44,7 @@ citation:
     
     
 
-#### An overview of model predictive control [`UNREAD`]
+#### An overview of model predictive control
 
 paper link: [here](https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/Only_the_RMPCT_package_provides_robust_tuning_in_an_automatic_way_does_it_work_for_non-minimum_phase_systems/attachment/59d6404079197b807799c82b/AS%3A430209804574720%401479581418769/download/An+Overview+of+Model+Predictive+Control.pdf)
 
@@ -61,5 +61,5 @@ citation:
 }
 ```
 
-#### Nonlinear Model Predictive Control [`UNREAD`]
+#### Nonlinear Model Predictive Control
 book link: [here](https://pan.baidu.com/s/1icymiVnXaoC37zQ0DmSqtw), with extraction code: `a8dh`

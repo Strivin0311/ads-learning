@@ -8,7 +8,7 @@ Intros:
 ---
 
 
-#### Simultaneous localization and mapping (SLAM): Part I [`READ`]
+#### Simultaneous localization and mapping (SLAM): Part I
 
 paper link: [here](http://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial1.pdf)
 
@@ -26,7 +26,7 @@ citation:
 }
 ```
     
-#### Simultaneous localization and mapping (SLAM): Part II [`READ`]
+#### Simultaneous localization and mapping (SLAM): Part II
 
 paper link: [here](https://ieeexplore.ieee.org/iel5/100/35300/01678144.pdf)
 

@@ -1,7 +1,7 @@
 # Driving with LLMs
 *Here're some resources about Driving with LLMs*
 
-#### DriveLM: Driving with Graph Visual Question Answering ['READ']
+#### DriveLM: Driving with Graph Visual Question Answering
 
 paper link: [here](https://arxiv.org/pdf/2312.14150.pdf)
 
@@ -16,7 +16,7 @@ citation:
 ```
 
 
-#### DriveMLM- Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving ['READ']
+#### DriveMLM- Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving
 
 paper link: [here](https://arxiv.org/pdf/2312.09245)
 
@@ -31,7 +31,7 @@ citation:
 ```
 
 
-#### Drivegpt4: Interpretable end-to-end autonomous driving via large language model [`READ`]
+#### Drivegpt4: Interpretable end-to-end autonomous driving via large language model
 
 paper link: [here](https://arxiv.org/pdf/2310.01412)
 
@@ -46,7 +46,7 @@ citation:
 ```
 
 
-#### Driving with llms: Fusing object-level vector modality for explainable autonomous driving [`READ`]
+#### Driving with llms: Fusing object-level vector modality for explainable autonomous driving
 
 paper link: [here](https://arxiv.org/pdf/2310.01957)
 
@@ -61,7 +61,7 @@ citation:
 ```
     
 
-#### Drive like a human: Rethinking autonomous driving with large language models [`READ`]
+#### Drive like a human: Rethinking autonomous driving with large language models
 
 paper link: [here](https://arxiv.org/pdf/2307.07162)
 
@@ -79,7 +79,7 @@ citation:
 ### Survey
 
 
-#### A Survey of Large Language Models for Autonomous Driving [`UNREAD`]
+#### A Survey of Large Language Models for Autonomous Driving
 
 paper link: [here](https://arxiv.org/pdf/2311.01043)
 
@@ -93,7 +93,7 @@ citation:
 }
 ```
 
-#### Vision language models in autonomous driving and intelligent transportation systems [`UNREAD`]
+#### Vision language models in autonomous driving and intelligent transportation systems
 
 paper link: [here](https://arxiv.org/pdf/2310.14414)
 

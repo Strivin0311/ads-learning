@@ -23,7 +23,7 @@ Intros:
 
 ---
 
-#### A survey of motion planning and control techniques for self-driving urban vehicles [`UNREAD`]
+#### A survey of motion planning and control techniques for self-driving urban vehicles
 
 paper link: [here](https://arxiv.org/pdf/1604.07446)
 
@@ -42,7 +42,7 @@ citation:
 ```
     
 
-#### 自动驾驶汽车决策与控制 [`READ`]
+#### 自动驾驶汽车决策与控制
 book link: [here](https://pan.baidu.com/s/1NzGlsmQqV5hbloFI11QKDg), with extraction code: `rbp5`
 
 

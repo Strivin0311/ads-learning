@@ -27,7 +27,7 @@ Intros:
 ---
 
 
-#### A survey on safety-critical driving scenario generation—A methodological perspective [`READ`]
+#### A survey on safety-critical driving scenario generation—A methodological perspective
 
 paper link: [here](https://arxiv.org/pdf/2202.02215)
 
@@ -43,7 +43,7 @@ citation:
 ```
     
 
-#### Finding critical scenarios for automated driving systems: A systematic literature review [`READ`]
+#### Finding critical scenarios for automated driving systems: A systematic literature review
 
 paper link: [here](https://arxiv.org/pdf/2110.08664)
 

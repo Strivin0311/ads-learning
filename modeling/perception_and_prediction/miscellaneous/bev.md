@@ -10,7 +10,7 @@ Intros:
 
 ---
 
-#### Tri-perspective view for vision-based 3d semantic occupancy prediction [`UNREAD`]
+#### Tri-perspective view for vision-based 3d semantic occupancy prediction
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Tri-Perspective_View_for_Vision-Based_3D_Semantic_Occupancy_Prediction_CVPR_2023_paper.pdf)
 
@@ -26,7 +26,7 @@ citation:
 ```
     
 
-#### Bevfusion: Multi-task multi-sensor fusion with unified bird's-eye view representation [`UNREAD`]
+#### Bevfusion: Multi-task multi-sensor fusion with unified bird's-eye view representation
 
 paper link: [here](https://arxiv.org/pdf/2205.13542)
 
@@ -42,7 +42,7 @@ citation:
 }
 ```
 
-#### BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision [`UNREAD`]
+#### BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BEVFormer_v2_Adapting_Modern_Image_Backbones_to_Birds-Eye-View_Recognition_via_CVPR_2023_paper.pdf)
 
@@ -57,7 +57,7 @@ citation:
 }
 ```
 
-#### Bevformer: Learning bird's-eye-view representation from multi-camera images via spatiotemporal transformers [`UNREAD`]
+#### Bevformer: Learning bird's-eye-view representation from multi-camera images via spatiotemporal transformers
 
 paper link: [here](https://arxiv.org/pdf/2203.17270.pdf%EF%BC%88BEVFormer%EF%BC%89)
 
@@ -74,7 +74,7 @@ citation:
 ```
     
 
-#### Bevfusion: A simple and robust lidar-camera fusion framework [`UNREAD`]
+#### Bevfusion: A simple and robust lidar-camera fusion framework
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/43d2b7fbee8431f7cef0d0afed51c691-Paper-Conference.pdf)
 
@@ -90,7 +90,7 @@ citation:
 }
 ```
 
-#### Vectornet: Encoding hd maps and agent dynamics from vectorized representation [`UNREAD`]
+#### Vectornet: Encoding hd maps and agent dynamics from vectorized representation
 
 paper link: [here](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf)
 
@@ -106,7 +106,7 @@ citation:
 ```
 
 
-#### UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities [`READ`]
+#### UniBEV: Multi-modal 3D Object Detection with Uniform BEV Encoders for Robustness against Missing Sensor Modalities
 paper link: [here](https://arxiv.org/abs/2309.14516v1)
 
 citation: 

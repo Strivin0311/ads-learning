@@ -21,7 +21,7 @@ Intros:
 
 
 
-#### Planning-oriented autonomous driving [`READ`]
+#### Planning-oriented autonomous driving
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf)
 
@@ -37,7 +37,7 @@ citation:
 ```
     
 
-#### Model-based imitation learning for urban driving [`UNREAD`]
+#### Model-based imitation learning for urban driving
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/827cb489449ea216e4a257c47e407d18-Paper-Conference.pdf)
 
@@ -53,7 +53,7 @@ citation:
 }
 ```
 
-#### St-p3: End-to-end vision-based autonomous driving via spatial-temporal feature learning [`UNREAD`]
+#### St-p3: End-to-end vision-based autonomous driving via spatial-temporal feature learning
 
 paper link: [here](https://arxiv.org/pdf/2207.07601)
 
@@ -70,7 +70,7 @@ citation:
 ```
     
     
-#### Learning by watching [`READ`]
+#### Learning by watching
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_by_Watching_CVPR_2021_paper.pdf)
 
@@ -85,7 +85,7 @@ citation:
 }
 ```
 
-#### Multi-modal fusion transformer for end-to-end autonomous driving [`UNREAD`]
+#### Multi-modal fusion transformer for end-to-end autonomous driving
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2021/papers/Prakash_Multi-Modal_Fusion_Transformer_for_End-to-End_Autonomous_Driving_CVPR_2021_paper.pdf)
 
@@ -100,7 +100,7 @@ citation:
 }
 ```
     
-#### Mp3: A unified model to map, perceive, predict and plan [`READ`]
+#### Mp3: A unified model to map, perceive, predict and plan
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf)
 
@@ -116,7 +116,7 @@ citation:
 ```
     
 
-#### End-to-end driving via conditional imitation learning [`READ`]
+#### End-to-end driving via conditional imitation learning
 
 paper link: [here](https://arxiv.org/pdf/1710.02410)
 
@@ -133,7 +133,7 @@ citation:
 ```
     
 
-#### End to end learning for self-driving cars [`READ`]
+#### End to end learning for self-driving cars
 
 paper link: [here](https://arxiv.org/pdf/1604.07316.pdf%5D)
 

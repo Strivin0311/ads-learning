@@ -16,7 +16,7 @@ Intros:
 ---
 
 
-#### Modelling and control strategies in path tracking control for autonomous ground vehicles: a review of state of the art and challenges [`UNREAD`]
+#### Modelling and control strategies in path tracking control for autonomous ground vehicles: a review of state of the art and challenges
 
 paper link: [here](https://www.academia.edu/download/52318399/Fiza__JIRS-Springer_.pdf)
 
@@ -34,9 +34,9 @@ citation:
 ```
     
 
-#### Optimal Control [`UNREAD`]
+#### Optimal Control
 book link: [here](https://pan.baidu.com/s/1aVmeLoPUPUsjawfCcjopeQ), with extraction code: `xzh8`
 
 
-#### Vehicle Dynamics and Control [`READ`]
+#### Vehicle Dynamics and Control
 book link: [here](https://pan.baidu.com/s/1U3O-vhZM6L06QyXXdeWFmw), with extraction code: `x9xx`

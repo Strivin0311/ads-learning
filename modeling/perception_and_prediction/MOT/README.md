@@ -11,7 +11,7 @@ Intros:
 ---
 
 
-#### Type-to-Track: Retrieve Any Object via Prompt-based Tracking [`UNREAD`]
+#### Type-to-Track: Retrieve Any Object via Prompt-based Tracking
 
 paper link: [here](https://arxiv.org/pdf/2305.13495)
 
@@ -27,7 +27,7 @@ citation:
     
 
 
-#### Mutr3d: A multi-camera tracking framework via 3d-to-2d queries [`UNREAD`]
+#### Mutr3d: A multi-camera tracking framework via 3d-to-2d queries
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Zhang_MUTR3D_A_Multi-Camera_Tracking_Framework_via_3D-to-2D_Queries_CVPRW_2022_paper.pdf)
 
@@ -42,7 +42,7 @@ citation:
 }
 ```
 
-#### Immortal tracker: Tracklet never dies [`UNREAD`]
+#### Immortal tracker: Tracklet never dies
 
 paper link: [here](https://arxiv.org/pdf/2111.13672)
 
@@ -56,7 +56,7 @@ citation:
 }
 ```
 
-#### Multiple object tracking: A literature review [`UNREAD`]
+#### Multiple object tracking: A literature review
 
 paper link: [here](https://arxiv.org/pdf/1409.7618)
 
@@ -73,7 +73,7 @@ citation:
 }
 ```
 
-#### Tracking objects as points [`UNREAD`]
+#### Tracking objects as points
 
 paper link: [here](https://arxiv.org/pdf/2004.01177.pdf)
 
@@ -91,7 +91,7 @@ citation:
     
 
 
-#### Multiple object tracking by flowing and fusing [`UNREAD`]
+#### Multiple object tracking by flowing and fusing
 
 paper link: [here](https://arxiv.org/pdf/2001.11180)
 
@@ -105,7 +105,7 @@ citation:
 }
 ```
 
-#### Tracking without bells and whistles [`UNREAD`]
+#### Tracking without bells and whistles
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf)
 
@@ -120,7 +120,7 @@ citation:
 }
 ```
 
-#### Real-time multiple people tracking with deeply learned candidate selection and person re-identification [`UNREAD`]
+#### Real-time multiple people tracking with deeply learned candidate selection and person re-identification
 
 paper link: [here](https://arxiv.org/pdf/1809.04427)
 
@@ -138,7 +138,7 @@ citation:
     
     
     
-#### Simple online and realtime tracking with a deep association metric [`UNREAD`]
+#### Simple online and realtime tracking with a deep association metric
 
 paper link: [here](https://arxiv.org/pdf/1703.07402)
 
@@ -154,7 +154,7 @@ citation:
 }
 ```
 
-#### Detect to track and track to detect [`READ`]
+#### Detect to track and track to detect
 
 paper link: [here](http://openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)
 
@@ -171,7 +171,7 @@ citation:
     
     
 
-#### Simple online and realtime tracking [`READ`]
+#### Simple online and realtime tracking
 
 paper link: [here](https://arxiv.org/pdf/1602.00763.pdf)
 

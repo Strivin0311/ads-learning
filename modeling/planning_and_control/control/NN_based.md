@@ -6,7 +6,7 @@ Intos:
 
 ---
 
-#### A survey of deep learning applications to autonomous vehicle control [`UNREAD`]
+#### A survey of deep learning applications to autonomous vehicle control
 
 paper link: [here](https://arxiv.org/pdf/1912.10773)
 

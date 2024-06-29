@@ -6,7 +6,7 @@ Intros:
 
 ---
 
-#### Robust vehicle localization in urban environments using probabilistic maps [`UNREAD`]
+#### Robust vehicle localization in urban environments using probabilistic maps
 
 paper link: [here](https://fileadmin.cs.lth.se/ai/Proceedings/ICRA2010/MainConference/data/papers/1912.pdf)
 

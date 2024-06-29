@@ -8,7 +8,7 @@ Intros:
 ---
 
 
-#### Towards Verified Safety-critical Autonomous Driving Scenario with ADSML [`UNREAD`]
+#### Towards Verified Safety-critical Autonomous Driving Scenario with ADSML
 
 paper link: [here](https://ieeexplore.ieee.org/abstract/document/9529487/)
 
@@ -24,7 +24,7 @@ citation:
 }
 ```
 
-#### SceML: A graphical modeling framework for scenario-based testing of autonomous vehicles [`UNREAD`]
+#### SceML: A graphical modeling framework for scenario-based testing of autonomous vehicles
 
 paper link: [here](https://arxiv.org/pdf/2102.04241)
 
@@ -41,7 +41,7 @@ citation:
     
     
 
-#### Scenic: a language for scenario specification and scene generation [`READ`]
+#### Scenic: a language for scenario specification and scene generation
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3314221.3314633)
 
@@ -56,7 +56,7 @@ citation:
 }
 ```
     
-#### GeoScenario: An open DSL for autonomous driving scenario representation [`READ`]
+#### GeoScenario: An open DSL for autonomous driving scenario representation
 
 paper link: [here](https://www.cse.chalmers.se/~bergert/paper/2019-iv-geoscenario.pdf)
 
@@ -73,7 +73,7 @@ citation:
 ```
 
 
-#### CommonRoad: Composable benchmarks for motion planning on roads [`UNREAD`]
+#### CommonRoad: Composable benchmarks for motion planning on roads
 
 paper link: [here](https://mediatum.ub.tum.de/doc/1379638/document.pdf)
 
