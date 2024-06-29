@@ -1,5 +1,7 @@
 # 🚦🚗 ADS-Learning 📑📚
 
+**`NOTE`: This repository is been moved back [here](https://github.com/Strivin0311/ai-learning/tree/main/tasks/ads) as a subtask track for my [ai-learning](https://github.com/Strivin0311/ai-learning) repo.**
+
 This repository is dedicated to sharing comprehensive literature on the full-stack techniques for autonomous driving systems(ADS), including modeling, testing and some awesome (open-source) utilities.
 
 
